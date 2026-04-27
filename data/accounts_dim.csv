@@ -1,0 +1,3646 @@
+account_id,customer_age,days_dormant,account_status,account_label
+ACC_N1717,150,23,Active,Normal
+ACC_N1029,54,4,Active,Normal
+ACC_A0332,57,426,active,Legitimate_Awakening
+ACC_N2761,39,19,ACTIVE,Normal
+ACC_N3347,23,25,Inactive,Normal
+ACC_N2158,60,19,ACTIVE,Normal
+ACC_A0367,60,502,Active,Legitimate_Awakening
+ACC_N1513,35,2,Active,Normal
+ACC_N0761,53,29, aCtive ,Normal
+ACC_N0653,48,22,Active,Normal
+ACC_N0038,41,0,Inactive,Normal
+ACC_N0304,46,5,Active,Normal
+ACC_M038,26,790,ACTIVE,Dormant_Mule
+ACC_N3173,49,4,ACTIVE,Normal
+ACC_N1108,41,7,Active,Normal
+ACC_N2768,25,6,ACTIVE,Normal
+ACC_N0917,28,10, aCtive ,Normal
+ACC_N3030,30,25,ACTIVE,Normal
+ACC_N3307,47,28,INACTIVE,Normal
+ACC_N2983,20,27,active,Normal
+ACC_N3336,18,11,Active,Normal
+ACC_N1447,49,23,ACTIVE,Normal
+ACC_N3435,23,26,inactive,Normal
+ACC_N2524,41,7, aCtive ,Normal
+ACC_N1089,30,8,active,Normal
+ACC_N1878,23,28,active,Normal
+ACC_N1546,38,16,ACTIVE,Normal
+ACC_N0783,42,15,ACTIVE,Normal
+ACC_N2095,20,13,active,Normal
+ACC_N1475,19,6,Active,Normal
+ACC_N2779,34,29,Active,Normal
+ACC_N2888,62,26, aCtive ,Normal
+ACC_N2905,20,14,Active,Normal
+ACC_A0287,24,346,active,Legitimate_Awakening
+ACC_N0093,60,13,active,Normal
+ACC_A0285,46,518,active,Legitimate_Awakening
+ACC_N0094,56,21,Active,Normal
+ACC_A0210,52,405, aCtive ,Legitimate_Awakening
+ACC_N1372,22,26,Active,Normal
+ACC_A0278,20,499, aCtive ,Legitimate_Awakening
+ACC_N0448,38,23,Active,Normal
+ACC_N3317,30,5,active,Normal
+ACC_N1490,60,29,active,Normal
+ACC_N1338,54,24,inactive,Normal
+ACC_N2537,32,18,ACTIVE,Normal
+ACC_N2016,42,5,Active,Normal
+ACC_A0394,57,622,Active,Legitimate_Awakening
+ACC_N2749,40,11,ACTIVE,Normal
+ACC_N2472,59,13,active,Normal
+ACC_N1639,35,8,Active,Normal
+ACC_N2090,33,9,ACTIVE,Normal
+ACC_N1961,31,27,Active,Normal
+ACC_N0794,59,21, aCtive ,Normal
+ACC_N2305,19,5,INACTIVE,Normal
+ACC_N2525,20,18,INACTIVE,Normal
+ACC_N2591,32,25,active,Normal
+ACC_M010,53,443,ACTIVE,Dormant_Mule
+ACC_N0633,39,4,INACTIVE,Normal
+ACC_N2928,49,25,active,Normal
+ACC_N0724,48,11,ACTIVE,Normal
+ACC_A0002,45,510,active,Legitimate_Awakening
+ACC_N0671,53,8,Active,Normal
+ACC_N1485,31,13,ACTIVE,Normal
+ACC_N3235,45,29,ACTIVE,Normal
+ACC_N0254,40,0,ACTIVE,Normal
+ACC_N3103,55,24, aCtive ,Normal
+ACC_N2368,24,23, aCtive ,Normal
+ACC_N1196,52,10,active,Normal
+ACC_M058,32,443,ACTIVE,Dormant_Mule
+ACC_N1969,22,19,active,Normal
+ACC_N1070,61,13,Active,Normal
+ACC_N2860,26,6,ACTIVE,Normal
+ACC_N3360,19,7,Active,Normal
+ACC_N1340,25,17,active,Normal
+ACC_N1543,57,15, aCtive ,Normal
+ACC_N2398,49,2,active,Normal
+ACC_N0083,32,9,Active,Normal
+ACC_N0810,49,29,ACTIVE,Normal
+ACC_N0852,19,20,active,Normal
+ACC_N0051,33,7,ACTIVE,Normal
+ACC_N0631,58,1, aCtive ,Normal
+ACC_N3028,46,6, aCtive ,Normal
+ACC_N3188,40,22, aCtive ,Normal
+ACC_N1953,22,12,ACTIVE,Normal
+ACC_N0522,30,22,active,Normal
+ACC_N2599,19,26,Inactive,Normal
+ACC_A0217,20,680,ACTIVE,Legitimate_Awakening
+ACC_N1607,47,9,active,Normal
+ACC_N3151,150,5, aCtive ,Normal
+ACC_N3493,22,29, aCtive ,Normal
+ACC_A0375,50,315,active,Legitimate_Awakening
+ACC_N1982,27,20,ACTIVE,Normal
+ACC_N0097,52,17,Inactive,Normal
+ACC_N0646,63,17, aCtive ,Normal
+ACC_N2322,57,23,Active,Normal
+ACC_N3356,29,2,Active,Normal
+ACC_N3132,33,16,Active,Normal
+ACC_A0322,30,331,ACTIVE,Legitimate_Awakening
+ACC_N0941,29,28,ACTIVE,Normal
+ACC_N2243,63,9, aCtive ,Normal
+ACC_N0748,39,23,Active,Normal
+ACC_N0642,22,15, aCtive ,Normal
+ACC_N0743,55,27, aCtive ,Normal
+ACC_N2004,62,12,inactive,Normal
+ACC_A0040,49,385, aCtive ,Legitimate_Awakening
+ACC_M009,64,463,active,Dormant_Mule
+ACC_N2955,26,24,Active,Normal
+ACC_N2239,46,6,Active,Normal
+ACC_N2962,34,24,active,Normal
+ACC_N2162,59,4,active,Normal
+ACC_N2573,46,16,Active,Normal
+ACC_N2173,37,0,INACTIVE,Normal
+ACC_N1951,41,9, aCtive ,Normal
+ACC_N3370,41,23,Inactive,Normal
+ACC_N1704,35,3, aCtive ,Normal
+ACC_N1325,34,27,Active,Normal
+ACC_N0722,21,11,active,Normal
+ACC_N3011,28,2,ACTIVE,Normal
+ACC_N1827,150,23,Active,Normal
+ACC_N3386,42,11,active,Normal
+ACC_N1192,49,7,inactive,Normal
+ACC_N2582,36,14,ACTIVE,Normal
+ACC_N0619,24,23,ACTIVE,Normal
+ACC_N0085,40,17,active,Normal
+ACC_N0394,20,24,Inactive,Normal
+ACC_N2337,50,0,Active,Normal
+ACC_N3179,37,10,active,Normal
+ACC_N0559,41,2, aCtive ,Normal
+ACC_N2422,23,26,Active,Normal
+ACC_A0191,36,301,Active,Legitimate_Awakening
+ACC_N3104,43,15,active,Normal
+ACC_N2405,42,26,active,Normal
+ACC_N1931,37,4,ACTIVE,Normal
+ACC_N1467,52,4,Active,Normal
+ACC_A0037,20,471,ACTIVE,Legitimate_Awakening
+ACC_N3305,47,19,Active,Normal
+ACC_N1032,56,28,Active,Normal
+ACC_N0067,42,27, aCtive ,Normal
+ACC_N2879,35,21,Active,Normal
+ACC_N1095,32,4,ACTIVE,Normal
+ACC_N0658,58,8,Inactive,Normal
+ACC_N0027,60,27, aCtive ,Normal
+ACC_N2080,58,28,ACTIVE,Normal
+ACC_N0611,63,26,active,Normal
+ACC_N1929,19,29, aCtive ,Normal
+ACC_N1009,47,16,ACTIVE,Normal
+ACC_N2226,27,14,ACTIVE,Normal
+ACC_N1398,53,23,active,Normal
+ACC_N2248,46,26, aCtive ,Normal
+ACC_A0130,37,597,active,Legitimate_Awakening
+ACC_N1628,53,25, aCtive ,Normal
+ACC_N2073,18,2, aCtive ,Normal
+ACC_N3034,52,26,Active,Normal
+ACC_N1884,30,21,ACTIVE,Normal
+ACC_N1245,34,10,ACTIVE,Normal
+ACC_N0849,44,14,Active,Normal
+ACC_N0209,26,27,active,Normal
+ACC_N2390,27,8,Active,Normal
+ACC_N0554,51,7,ACTIVE,Normal
+ACC_N0003,45,6,ACTIVE,Normal
+ACC_N0687,21,22,Active,Normal
+ACC_N1808,19,6,Active,Normal
+ACC_N0933,58,1,Active,Normal
+ACC_N1527,44,14,ACTIVE,Normal
+ACC_N0371,44,1,Active,Normal
+ACC_N2297,40,17,Active,Normal
+ACC_N3258,18,26,active,Normal
+ACC_N1699,23,17,Active,Normal
+ACC_N0344,51,27,ACTIVE,Normal
+ACC_N2420,64,0,active,Normal
+ACC_N2235,37,13, aCtive ,Normal
+ACC_N0191,29,7,ACTIVE,Normal
+ACC_N2154,35,20,ACTIVE,Normal
+ACC_N3013,32,27, aCtive ,Normal
+ACC_N3313,55,22,ACTIVE,Normal
+ACC_A0368,38,289, aCtive ,Legitimate_Awakening
+ACC_N2887,25,9, aCtive ,Normal
+ACC_N0990,32,13,ACTIVE,Normal
+ACC_N3411,28,5,Active,Normal
+ACC_A0076,46,414,Active,Legitimate_Awakening
+ACC_N1539,29,10, aCtive ,Normal
+ACC_N1635,40,0,active,Normal
+ACC_N1584,61,10, aCtive ,Normal
+ACC_N0946,51,20, aCtive ,Normal
+ACC_N0947,55,16, aCtive ,Normal
+ACC_N3448,58,2,Active,Normal
+ACC_N2340,27,4,inactive,Normal
+ACC_N3029,41,13,Active,Normal
+ACC_N2738,31,13,Active,Normal
+ACC_N2506,24,2, aCtive ,Normal
+ACC_N1744,39,21,active,Normal
+ACC_N2559,43,18,Inactive,Normal
+ACC_A0041,21,402,ACTIVE,Legitimate_Awakening
+ACC_A0321,39,556,ACTIVE,Legitimate_Awakening
+ACC_N2990,25,20,ACTIVE,Normal
+ACC_A0305,21,669, aCtive ,Legitimate_Awakening
+ACC_N1892,22,3,ACTIVE,Normal
+ACC_N2697,25,14, aCtive ,Normal
+ACC_A0323,31,188,ACTIVE,Legitimate_Awakening
+ACC_N0699,45,5,active,Normal
+ACC_N3253,30,20,INACTIVE,Normal
+ACC_N1847,43,24,ACTIVE,Normal
+ACC_N2985,25,4,Active,Normal
+ACC_N0855,39,12, aCtive ,Normal
+ACC_N1758,35,14,Active,Normal
+ACC_A0283,27,621,Active,Legitimate_Awakening
+ACC_N2366,47,26,Active,Normal
+ACC_N2147,62,2,Active,Normal
+ACC_N1244,29,3,ACTIVE,Normal
+ACC_N0951,40,7,ACTIVE,Normal
+ACC_N0904,52,14, aCtive ,Normal
+ACC_N0407,45,11, aCtive ,Normal
+ACC_N0218,54,16, aCtive ,Normal
+ACC_N3295,52,12,ACTIVE,Normal
+ACC_N2040,38,20, aCtive ,Normal
+ACC_N3015,42,8,Active,Normal
+ACC_N0363,45,1,ACTIVE,Normal
+ACC_N3479,38,14,INACTIVE,Normal
+ACC_A0220,57,521,Active,Legitimate_Awakening
+ACC_N0515,56,19, aCtive ,Normal
+ACC_N0517,43,6,active,Normal
+ACC_A0313,28,267, aCtive ,Legitimate_Awakening
+ACC_N1315,42,18,active,Normal
+ACC_N2875,46,25, aCtive ,Normal
+ACC_N1500,50,12, aCtive ,Normal
+ACC_A0246,19,401,ACTIVE,Legitimate_Awakening
+ACC_N3410,45,20,ACTIVE,Normal
+ACC_N0920,56,21,active,Normal
+ACC_N1863,55,4,ACTIVE,Normal
+ACC_N2436,24,11,Active,Normal
+ACC_N2256,51,19,Active,Normal
+ACC_N2331,20,4,active,Normal
+ACC_N1242,24,8,Inactive,Normal
+ACC_N0479,55,9,Active,Normal
+ACC_N1320,50,27, aCtive ,Normal
+ACC_N2199,19,27,inactive,Normal
+ACC_N3402,40,2,ACTIVE,Normal
+ACC_N2811,51,12,Active,Normal
+ACC_N1484,27,6,Active,Normal
+ACC_N3382,35,2,ACTIVE,Normal
+ACC_N0503,34,23,Active,Normal
+ACC_N1552,64,12,inactive,Normal
+ACC_N0379,53,10,Inactive,Normal
+ACC_N2926,62,3,ACTIVE,Normal
+ACC_A0339,23,553, aCtive ,Legitimate_Awakening
+ACC_A0053,25,348,Active,Legitimate_Awakening
+ACC_N0280,37,20,ACTIVE,Normal
+ACC_N1028,49,1,Active,Normal
+ACC_N3055,58,26,Active,Normal
+ACC_N2010,58,12, aCtive ,Normal
+ACC_N1142,62,4,active,Normal
+ACC_N3461,58,17,active,Normal
+ACC_N2694,35,9,ACTIVE,Normal
+ACC_A0326,18,349,active,Legitimate_Awakening
+ACC_N0525,54,17,ACTIVE,Normal
+ACC_A0225,62,201,active,Legitimate_Awakening
+ACC_N0164,63,5, aCtive ,Normal
+ACC_N2802,42,15,ACTIVE,Normal
+ACC_N0158,54,0,active,Normal
+ACC_N1521,61,13, aCtive ,Normal
+ACC_N2172,46,20,active,Normal
+ACC_N1237,43,12,Active,Normal
+ACC_N2039,31,22,Inactive,Normal
+ACC_N2519,150,3, aCtive ,Normal
+ACC_N2138,50,4,Active,Normal
+ACC_N3332,30,18,Active,Normal
+ACC_N3296,56,14,ACTIVE,Normal
+ACC_N3004,20,16,active,Normal
+ACC_N0323,47,22,ACTIVE,Normal
+ACC_N0513,22,6,active,Normal
+ACC_N0079,50,20,Active,Normal
+ACC_N1855,38,25,ACTIVE,Normal
+ACC_N1997,40,28,active,Normal
+ACC_N2471,32,7,active,Normal
+ACC_N1211,37,8,ACTIVE,Normal
+ACC_N3095,49,15, aCtive ,Normal
+ACC_N0806,46,12,active,Normal
+ACC_N0949,50,5,Active,Normal
+ACC_N3314,55,8,active,Normal
+ACC_N1822,41,3,Active,Normal
+ACC_A0226,62,620,ACTIVE,Legitimate_Awakening
+ACC_N0906,18,27,active,Normal
+ACC_N2391,37,7,Active,Normal
+ACC_N1994,63,29,Active,Normal
+ACC_N0866,58,25,ACTIVE,Normal
+ACC_N1258,32,25,active,Normal
+ACC_N0508,26,8,active,Normal
+ACC_N0262,49,27,ACTIVE,Normal
+ACC_N3371,59,27,active,Normal
+ACC_N0414,36,6,ACTIVE,Normal
+ACC_N1988,30,1,active,Normal
+ACC_N1767,57,25, aCtive ,Normal
+ACC_N0104,37,8,active,Normal
+ACC_N1765,38,27,Active,Normal
+ACC_N1451,24,24,Active,Normal
+ACC_N1049,40,12, aCtive ,Normal
+ACC_N1285,19,1,active,Normal
+ACC_N1603,64,1,Active,Normal
+ACC_N0526,25,22,Active,Normal
+ACC_N2265,39,23,active,Normal
+ACC_N0383,25,22,ACTIVE,Normal
+ACC_N1401,60,10,active,Normal
+ACC_N1691,40,15,ACTIVE,Normal
+ACC_N0528,57,19,inactive,Normal
+ACC_N3303,37,11, aCtive ,Normal
+ACC_N0269,20,17,inactive,Normal
+ACC_A0266,36,670, aCtive ,Legitimate_Awakening
+ACC_N1518,50,29,Active,Normal
+ACC_N1471,30,7,Active,Normal
+ACC_N3122,19,18,Active,Normal
+ACC_N1658,22,7,ACTIVE,Normal
+ACC_N1784,52,1,Active,Normal
+ACC_N1662,33,14,INACTIVE,Normal
+ACC_N1319,31,5,ACTIVE,Normal
+ACC_N3049,37,28, aCtive ,Normal
+ACC_N0867,37,23,ACTIVE,Normal
+ACC_N0912,31,2,Inactive,Normal
+ACC_N1158,53,19,active,Normal
+ACC_N2233,37,25,active,Normal
+ACC_N0908,58,13,Active,Normal
+ACC_N1663,43,11,active,Normal
+ACC_N0759,33,10,ACTIVE,Normal
+ACC_N0111,63,23,ACTIVE,Normal
+ACC_N3068,62,8,Active,Normal
+ACC_N0988,59,13,active,Normal
+ACC_N2981,46,21, aCtive ,Normal
+ACC_N2182,41,10,ACTIVE,Normal
+ACC_N0490,32,7,ACTIVE,Normal
+ACC_N2129,38,25,ACTIVE,Normal
+ACC_N1862,49,11,ACTIVE,Normal
+ACC_N2347,37,16, aCtive ,Normal
+ACC_N1600,63,7,Active,Normal
+ACC_N2230,42,2,ACTIVE,Normal
+ACC_N3393,47,5,active,Normal
+ACC_N0364,59,25, aCtive ,Normal
+ACC_N2993,25,22,ACTIVE,Normal
+ACC_N2082,29,2,INACTIVE,Normal
+ACC_N3043,33,8,ACTIVE,Normal
+ACC_N3368,22,26,Active,Normal
+ACC_N2598,20,2,INACTIVE,Normal
+ACC_A0160,48,668,Active,Legitimate_Awakening
+ACC_N3344,46,29, aCtive ,Normal
+ACC_N2237,50,5,ACTIVE,Normal
+ACC_N0830,50,9,ACTIVE,Normal
+ACC_N2177,52,6, aCtive ,Normal
+ACC_N0155,49,1,active,Normal
+ACC_N2238,38,16,active,Normal
+ACC_N2833,51,15,Inactive,Normal
+ACC_N1001,20,25,ACTIVE,Normal
+ACC_A0358,44,634,Active,Legitimate_Awakening
+ACC_A0124,59,336,ACTIVE,Legitimate_Awakening
+ACC_N3046,26,7, aCtive ,Normal
+ACC_N3492,45,5,INACTIVE,Normal
+ACC_N2329,47,24,active,Normal
+ACC_N2244,29,19,Active,Normal
+ACC_N0397,58,21,active,Normal
+ACC_N2495,25,3,active,Normal
+ACC_A0336,34,300, aCtive ,Legitimate_Awakening
+ACC_N1426,24,0,active,Normal
+ACC_N1680,43,13,Active,Normal
+ACC_N1069,60,26,Active,Normal
+ACC_N2505,38,29,active,Normal
+ACC_N0875,50,0,ACTIVE,Normal
+ACC_N0815,34,23,active,Normal
+ACC_M047,60,477,Active,Dormant_Mule
+ACC_N2400,26,23,Active,Normal
+ACC_N0903,40,7, aCtive ,Normal
+ACC_N2964,62,13,active,Normal
+ACC_N1778,60,10,inactive,Normal
+ACC_A0224,49,593,active,Legitimate_Awakening
+ACC_N1248,57,11, aCtive ,Normal
+ACC_N0886,43,15,Active,Normal
+ACC_N1317,59,10, aCtive ,Normal
+ACC_N3477,22,20,ACTIVE,Normal
+ACC_M029,35,513,active,Dormant_Mule
+ACC_N0071,24,0,Active,Normal
+ACC_N1963,19,1, aCtive ,Normal
+ACC_N0076,57,9,Active,Normal
+ACC_N1346,54,24,inactive,Normal
+ACC_N3463,62,27,ACTIVE,Normal
+ACC_N2252,22,16,active,Normal
+ACC_N0600,27,26, aCtive ,Normal
+ACC_N0229,40,23,Active,Normal
+ACC_N3355,44,14,active,Normal
+ACC_N1883,59,6,active,Normal
+ACC_N1874,40,4,Active,Normal
+ACC_N2823,46,20,inactive,Normal
+ACC_N3219,51,18,active,Normal
+ACC_N2521,36,17,active,Normal
+ACC_N2052,33,29, aCtive ,Normal
+ACC_N1368,57,29,active,Normal
+ACC_M054,28,604, aCtive ,Dormant_Mule
+ACC_N1754,49,25,active,Normal
+ACC_N3141,62,6,ACTIVE,Normal
+ACC_N0195,31,8,ACTIVE,Normal
+ACC_N2003,58,1, aCtive ,Normal
+ACC_N1252,28,19, aCtive ,Normal
+ACC_N2561,52,9,ACTIVE,Normal
+ACC_N0128,50,8,active,Normal
+ACC_N1638,27,24, aCtive ,Normal
+ACC_N0135,26,21,Active,Normal
+ACC_N2932,41,29,active,Normal
+ACC_N2587,34,0,active,Normal
+ACC_N2152,61,28,ACTIVE,Normal
+ACC_N2273,60,29,INACTIVE,Normal
+ACC_N0752,28,28,active,Normal
+ACC_N3243,22,23, aCtive ,Normal
+ACC_N2547,27,10, aCtive ,Normal
+ACC_A0149,20,652, aCtive ,Legitimate_Awakening
+ACC_A0291,60,539,ACTIVE,Legitimate_Awakening
+ACC_N3158,44,0, aCtive ,Normal
+ACC_N0883,33,2,ACTIVE,Normal
+ACC_N1890,28,8,Active,Normal
+ACC_N2972,41,4,INACTIVE,Normal
+ACC_N0732,57,5,active,Normal
+ACC_N1789,47,27,Active,Normal
+ACC_N3439,56,8,ACTIVE,Normal
+ACC_N0120,20,4,active,Normal
+ACC_N2632,61,0,ACTIVE,Normal
+ACC_N1419,37,4,ACTIVE,Normal
+ACC_N3359,38,25,ACTIVE,Normal
+ACC_N1344,33,3,Active,Normal
+ACC_N1306,46,9,Active,Normal
+ACC_N1734,27,2,ACTIVE,Normal
+ACC_N1538,61,19, aCtive ,Normal
+ACC_A0194,25,293,Active,Legitimate_Awakening
+ACC_N0041,58,24, aCtive ,Normal
+ACC_A0265,43,600, aCtive ,Legitimate_Awakening
+ACC_N2262,35,11,ACTIVE,Normal
+ACC_N0452,63,0, aCtive ,Normal
+ACC_N1788,57,25, aCtive ,Normal
+ACC_N0839,33,15, aCtive ,Normal
+ACC_N3440,41,27,ACTIVE,Normal
+ACC_N0777,36,26,ACTIVE,Normal
+ACC_N0434,18,12,Active,Normal
+ACC_N0650,42,9,Active,Normal
+ACC_N3466,60,29, aCtive ,Normal
+ACC_N2451,47,4,ACTIVE,Normal
+ACC_N1915,34,15,ACTIVE,Normal
+ACC_N0499,42,19, aCtive ,Normal
+ACC_N0720,40,6,Active,Normal
+ACC_N2485,57,20,ACTIVE,Normal
+ACC_N3495,31,5,Active,Normal
+ACC_N1630,41,25, aCtive ,Normal
+ACC_N0624,49,9,ACTIVE,Normal
+ACC_N0632,57,9, aCtive ,Normal
+ACC_N2503,27,12,active,Normal
+ACC_N1335,51,24, aCtive ,Normal
+ACC_N2161,47,6, aCtive ,Normal
+ACC_A0190,33,378, aCtive ,Legitimate_Awakening
+ACC_N1149,26,19,ACTIVE,Normal
+ACC_N3203,60,23, aCtive ,Normal
+ACC_N0827,49,10, aCtive ,Normal
+ACC_N1259,58,18,active,Normal
+ACC_N0457,23,18,ACTIVE,Normal
+ACC_N2365,19,28,active,Normal
+ACC_N2718,30,10, aCtive ,Normal
+ACC_N0576,30,29,ACTIVE,Normal
+ACC_N1835,62,0,active,Normal
+ACC_N0697,48,5, aCtive ,Normal
+ACC_N3037,47,18,Active,Normal
+ACC_N2281,63,5,active,Normal
+ACC_N0106,33,29,ACTIVE,Normal
+ACC_N3207,23,1,active,Normal
+ACC_N2912,36,0,active,Normal
+ACC_N0507,33,29,active,Normal
+ACC_N0431,57,19,Active,Normal
+ACC_N1696,38,18,ACTIVE,Normal
+ACC_N1071,32,4,ACTIVE,Normal
+ACC_N0604,59,21,ACTIVE,Normal
+ACC_N1923,150,19,INACTIVE,Normal
+ACC_N1316,41,29,ACTIVE,Normal
+ACC_N3111,19,8,ACTIVE,Normal
+ACC_N3044,58,16,Active,Normal
+ACC_N0401,27,22, aCtive ,Normal
+ACC_N3166,36,22, aCtive ,Normal
+ACC_N3269,54,2,active,Normal
+ACC_N1562,150,10, aCtive ,Normal
+ACC_N1464,53,0, aCtive ,Normal
+ACC_N0177,49,16,Active,Normal
+ACC_N2729,27,11,ACTIVE,Normal
+ACC_N0537,50,12, aCtive ,Normal
+ACC_N1633,37,21, aCtive ,Normal
+ACC_N2592,32,8,Active,Normal
+ACC_N0267,24,5, aCtive ,Normal
+ACC_N0358,150,7, aCtive ,Normal
+ACC_N2356,62,6,Active,Normal
+ACC_N1798,49,15,active,Normal
+ACC_A0022,43,681,active,Legitimate_Awakening
+ACC_N2769,56,26, aCtive ,Normal
+ACC_N1370,19,8, aCtive ,Normal
+ACC_N2987,24,19,ACTIVE,Normal
+ACC_N3415,46,3, aCtive ,Normal
+ACC_N0698,53,11,ACTIVE,Normal
+ACC_N0535,44,2,active,Normal
+ACC_N3000,34,5, aCtive ,Normal
+ACC_N2477,60,13, aCtive ,Normal
+ACC_N1267,45,28,Active,Normal
+ACC_N2031,28,0, aCtive ,Normal
+ACC_N0812,30,28,active,Normal
+ACC_N2997,59,21, aCtive ,Normal
+ACC_N1495,45,25,ACTIVE,Normal
+ACC_N3213,60,17, aCtive ,Normal
+ACC_N1465,18,25,ACTIVE,Normal
+ACC_N1005,40,11,Active,Normal
+ACC_N1025,34,13,INACTIVE,Normal
+ACC_N1128,18,18,Active,Normal
+ACC_N1166,22,1,Active,Normal
+ACC_N1743,47,7, aCtive ,Normal
+ACC_N1114,56,24,ACTIVE,Normal
+ACC_N3338,24,7, aCtive ,Normal
+ACC_A0381,63,472,ACTIVE,Legitimate_Awakening
+ACC_N2036,60,29,Active,Normal
+ACC_N2120,31,26,active,Normal
+ACC_N0588,24,17, aCtive ,Normal
+ACC_N2121,56,8,active,Normal
+ACC_N2119,19,7,ACTIVE,Normal
+ACC_N2299,56,4, aCtive ,Normal
+ACC_N3397,40,16,active,Normal
+ACC_N1837,56,15,active,Normal
+ACC_N3109,28,13, aCtive ,Normal
+ACC_A0192,25,433,active,Legitimate_Awakening
+ACC_A0158,26,680, aCtive ,Legitimate_Awakening
+ACC_A0386,49,443,active,Legitimate_Awakening
+ACC_N0637,56,19,Active,Normal
+ACC_N0898,49,9, aCtive ,Normal
+ACC_N2660,27,1,Active,Normal
+ACC_N1650,61,5,Active,Normal
+ACC_N0540,50,28,active,Normal
+ACC_N2736,37,15,ACTIVE,Normal
+ACC_N2797,23,3,Active,Normal
+ACC_N0327,43,7,Active,Normal
+ACC_N1433,24,7,Active,Normal
+ACC_N1336,59,28,ACTIVE,Normal
+ACC_N0690,20,17,ACTIVE,Normal
+ACC_N0757,43,4,Active,Normal
+ACC_A0282,39,341,ACTIVE,Legitimate_Awakening
+ACC_N2545,56,2,ACTIVE,Normal
+ACC_A0095,26,665,ACTIVE,Legitimate_Awakening
+ACC_N1468,27,2, aCtive ,Normal
+ACC_N3465,61,11,Active,Normal
+ACC_A0286,29,247,ACTIVE,Legitimate_Awakening
+ACC_N2448,59,16, aCtive ,Normal
+ACC_N3412,24,22,active,Normal
+ACC_A0182,48,361,active,Legitimate_Awakening
+ACC_N2621,25,28,ACTIVE,Normal
+ACC_N0964,33,19,Active,Normal
+ACC_N0228,22,15,Inactive,Normal
+ACC_N0916,55,6,active,Normal
+ACC_N0232,35,17,Active,Normal
+ACC_N2454,40,7,Active,Normal
+ACC_N2850,27,16,active,Normal
+ACC_N0044,62,7, aCtive ,Normal
+ACC_A0356,57,285, aCtive ,Legitimate_Awakening
+ACC_A0165,61,613,ACTIVE,Legitimate_Awakening
+ACC_N1802,26,22,Active,Normal
+ACC_N0603,53,4,ACTIVE,Normal
+ACC_N2404,18,17,Active,Normal
+ACC_N3341,48,25,active,Normal
+ACC_N3075,26,0,Active,Normal
+ACC_N2611,43,1,Active,Normal
+ACC_N3003,23,4,active,Normal
+ACC_N1024,45,20, aCtive ,Normal
+ACC_N1987,53,6,active,Normal
+ACC_N0428,44,19,Active,Normal
+ACC_N0808,19,4,active,Normal
+ACC_A0045,30,389,Active,Legitimate_Awakening
+ACC_N2712,28,13, aCtive ,Normal
+ACC_N1694,56,12, aCtive ,Normal
+ACC_N2900,56,26,Active,Normal
+ACC_N2929,37,16, aCtive ,Normal
+ACC_N0443,46,11,INACTIVE,Normal
+ACC_A0229,42,387, aCtive ,Legitimate_Awakening
+ACC_N1657,35,8,ACTIVE,Normal
+ACC_N0985,45,26, aCtive ,Normal
+ACC_A0296,55,414,ACTIVE,Legitimate_Awakening
+ACC_A0125,39,403,active,Legitimate_Awakening
+ACC_N2321,41,5, aCtive ,Normal
+ACC_N0408,45,5, aCtive ,Normal
+ACC_N1761,27,11, aCtive ,Normal
+ACC_N1240,45,10,active,Normal
+ACC_N1272,45,0,active,Normal
+ACC_A0275,53,505,ACTIVE,Legitimate_Awakening
+ACC_N0034,27,6,Active,Normal
+ACC_N2986,27,25,INACTIVE,Normal
+ACC_N2012,18,9, aCtive ,Normal
+ACC_N3149,43,1,ACTIVE,Normal
+ACC_N0290,30,5, aCtive ,Normal
+ACC_N2085,59,1, aCtive ,Normal
+ACC_A0208,19,209,active,Legitimate_Awakening
+ACC_N1859,39,0,Active,Normal
+ACC_M031,32,720, aCtive ,Dormant_Mule
+ACC_N2428,61,15,active,Normal
+ACC_N1394,57,21,ACTIVE,Normal
+ACC_N2065,50,7, aCtive ,Normal
+ACC_N1314,150,23,ACTIVE,Normal
+ACC_N2558,57,20,active,Normal
+ACC_N2068,29,5,INACTIVE,Normal
+ACC_N1395,24,26,active,Normal
+ACC_N0307,48,21,active,Normal
+ACC_A0365,34,246,active,Legitimate_Awakening
+ACC_N1875,41,2,Active,Normal
+ACC_N1785,56,26,ACTIVE,Normal
+ACC_N3424,31,3,Active,Normal
+ACC_N3419,150,0,ACTIVE,Normal
+ACC_N0219,32,28, aCtive ,Normal
+ACC_N1750,41,14, aCtive ,Normal
+ACC_N0674,44,3,ACTIVE,Normal
+ACC_N3231,19,22, aCtive ,Normal
+ACC_N0681,57,19, aCtive ,Normal
+ACC_A0252,18,589, aCtive ,Legitimate_Awakening
+ACC_A0199,32,606,Active,Legitimate_Awakening
+ACC_N1446,42,6,Inactive,Normal
+ACC_N1935,40,11,active,Normal
+ACC_A0132,36,571,ACTIVE,Legitimate_Awakening
+ACC_N1173,40,10, aCtive ,Normal
+ACC_N0212,51,4,ACTIVE,Normal
+ACC_N3140,41,23,active,Normal
+ACC_N1423,64,17,active,Normal
+ACC_N1277,56,14, aCtive ,Normal
+ACC_N2817,46,28,active,Normal
+ACC_N0980,20,15, aCtive ,Normal
+ACC_N1944,24,16,active,Normal
+ACC_N2089,32,8,active,Normal
+ACC_N2863,50,1, aCtive ,Normal
+ACC_N0424,48,13,active,Normal
+ACC_N1986,62,9,active,Normal
+ACC_N3204,41,11,active,Normal
+ACC_N0583,28,17,ACTIVE,Normal
+ACC_N2966,18,20,Active,Normal
+ACC_N1682,31,0,ACTIVE,Normal
+ACC_A0116,42,632,active,Legitimate_Awakening
+ACC_N2904,27,3,Active,Normal
+ACC_A0055,23,687,ACTIVE,Legitimate_Awakening
+ACC_A0328,29,397,ACTIVE,Legitimate_Awakening
+ACC_N2476,29,29,ACTIVE,Normal
+ACC_A0166,29,621, aCtive ,Legitimate_Awakening
+ACC_N2556,55,3,active,Normal
+ACC_N0316,36,10,inactive,Normal
+ACC_N1102,45,13,inactive,Normal
+ACC_N2755,63,5,active,Normal
+ACC_N1269,40,0,Active,Normal
+ACC_N0582,60,21,ACTIVE,Normal
+ACC_N2200,23,1,active,Normal
+ACC_N3246,37,28,ACTIVE,Normal
+ACC_N1061,150,16,active,Normal
+ACC_N2259,26,1,ACTIVE,Normal
+ACC_N0915,44,15,active,Normal
+ACC_N3064,34,8,Active,Normal
+ACC_N0648,52,5,ACTIVE,Normal
+ACC_N3498,47,13,active,Normal
+ACC_N2708,19,27,Active,Normal
+ACC_N3418,61,13,Active,Normal
+ACC_A0012,43,598,active,Legitimate_Awakening
+ACC_N3128,51,1,ACTIVE,Normal
+ACC_A0090,61,607, aCtive ,Legitimate_Awakening
+ACC_A0346,60,487,Active,Legitimate_Awakening
+ACC_N2164,63,4,Active,Normal
+ACC_N1676,47,16,active,Normal
+ACC_N3250,34,28, aCtive ,Normal
+ACC_A0393,32,232, aCtive ,Legitimate_Awakening
+ACC_N3469,51,27, aCtive ,Normal
+ACC_N2757,34,20,active,Normal
+ACC_N0167,35,23,ACTIVE,Normal
+ACC_N3212,29,0,Active,Normal
+ACC_A0306,22,589,active,Legitimate_Awakening
+ACC_N1399,20,0,INACTIVE,Normal
+ACC_N2891,29,20,Active,Normal
+ACC_N2914,34,10,Active,Normal
+ACC_A0058,30,636, aCtive ,Legitimate_Awakening
+ACC_N2469,36,25, aCtive ,Normal
+ACC_N3357,59,12,Active,Normal
+ACC_N0858,40,2,Active,Normal
+ACC_N2586,59,16,ACTIVE,Normal
+ACC_A0106,31,412,ACTIVE,Legitimate_Awakening
+ACC_N1815,46,4,active,Normal
+ACC_N2625,37,7,Active,Normal
+ACC_N2705,24,27,ACTIVE,Normal
+ACC_N0781,58,27,Active,Normal
+ACC_A0162,27,215, aCtive ,Legitimate_Awakening
+ACC_N0578,30,25,inactive,Normal
+ACC_N3234,23,15,ACTIVE,Normal
+ACC_A0189,62,303, aCtive ,Legitimate_Awakening
+ACC_N2689,35,19, aCtive ,Normal
+ACC_N1993,53,15, aCtive ,Normal
+ACC_N2077,37,27,active,Normal
+ACC_N0734,54,26, aCtive ,Normal
+ACC_N2953,21,18,active,Normal
+ACC_N0615,45,8,Active,Normal
+ACC_N0599,45,29,Active,Normal
+ACC_A0341,40,260,ACTIVE,Legitimate_Awakening
+ACC_N2607,48,27,ACTIVE,Normal
+ACC_N0792,60,5,active,Normal
+ACC_N1571,39,29,inactive,Normal
+ACC_N0236,64,18,Active,Normal
+ACC_N1183,24,24,ACTIVE,Normal
+ACC_N2294,19,21,ACTIVE,Normal
+ACC_N3230,46,6,ACTIVE,Normal
+ACC_N2042,61,17,Active,Normal
+ACC_N0217,33,11,ACTIVE,Normal
+ACC_N0676,18,11,Active,Normal
+ACC_N1105,28,10, aCtive ,Normal
+ACC_N2822,46,24,INACTIVE,Normal
+ACC_N1243,50,0, aCtive ,Normal
+ACC_N0008,53,0,active,Normal
+ACC_N2730,50,11,Active,Normal
+ACC_N1035,53,23,ACTIVE,Normal
+ACC_N2889,64,20,active,Normal
+ACC_N2370,32,8,active,Normal
+ACC_N2413,25,22, aCtive ,Normal
+ACC_A0044,25,400,Active,Legitimate_Awakening
+ACC_N0278,28,20,ACTIVE,Normal
+ACC_N0136,56,29,active,Normal
+ACC_N2455,30,3,ACTIVE,Normal
+ACC_N0066,27,5, aCtive ,Normal
+ACC_N0057,25,13,Active,Normal
+ACC_N0612,35,7,ACTIVE,Normal
+ACC_N0746,42,21,ACTIVE,Normal
+ACC_N0197,42,16,active,Normal
+ACC_N1153,38,19,ACTIVE,Normal
+ACC_N0406,58,16,Active,Normal
+ACC_A0378,40,648,Active,Legitimate_Awakening
+ACC_N0302,60,21,ACTIVE,Normal
+ACC_N1324,41,4,active,Normal
+ACC_N1621,61,18,active,Normal
+ACC_N2319,61,26, aCtive ,Normal
+ACC_N2853,31,2,Active,Normal
+ACC_N2279,62,17, aCtive ,Normal
+ACC_N1116,150,29,active,Normal
+ACC_N2459,34,6, aCtive ,Normal
+ACC_N0072,33,26,active,Normal
+ACC_N2241,58,29, aCtive ,Normal
+ACC_N1063,59,20, aCtive ,Normal
+ACC_N2195,26,24,Active,Normal
+ACC_N0738,45,17,Active,Normal
+ACC_A0231,27,356, aCtive ,Legitimate_Awakening
+ACC_N1563,61,1,active,Normal
+ACC_N1383,28,13,active,Normal
+ACC_N0473,55,0,Active,Normal
+ACC_N0325,34,9,Active,Normal
+ACC_N0573,59,13,ACTIVE,Normal
+ACC_A0304,37,403,Active,Legitimate_Awakening
+ACC_N1083,20,3,active,Normal
+ACC_N2829,20,2,Active,Normal
+ACC_A0112,56,407,ACTIVE,Legitimate_Awakening
+ACC_A0138,41,482, aCtive ,Legitimate_Awakening
+ACC_N2132,55,4, aCtive ,Normal
+ACC_N0170,33,10,active,Normal
+ACC_N2087,62,9,Inactive,Normal
+ACC_N2440,57,8, aCtive ,Normal
+ACC_A0107,60,522, aCtive ,Legitimate_Awakening
+ACC_N3409,58,11,Active,Normal
+ACC_M001,62,964, aCtive ,Dormant_Mule
+ACC_N0449,18,25,INACTIVE,Normal
+ACC_N1432,42,23, aCtive ,Normal
+ACC_N2614,28,3,active,Normal
+ACC_N3205,61,2,active,Normal
+ACC_N1322,40,7,Active,Normal
+ACC_N2723,53,6,ACTIVE,Normal
+ACC_N0564,23,3,active,Normal
+ACC_M003,37,829, aCtive ,Dormant_Mule
+ACC_N1309,23,10, aCtive ,Normal
+ACC_A0180,26,466,active,Legitimate_Awakening
+ACC_N1866,48,10, aCtive ,Normal
+ACC_N1255,51,15,Active,Normal
+ACC_N2300,29,16,INACTIVE,Normal
+ACC_N0614,30,11,Active,Normal
+ACC_N0073,32,12,active,Normal
+ACC_N3164,23,20,active,Normal
+ACC_N0382,50,14,active,Normal
+ACC_N2127,59,5,Active,Normal
+ACC_N2048,57,5, aCtive ,Normal
+ACC_A0247,38,647,Active,Legitimate_Awakening
+ACC_N0685,22,12, aCtive ,Normal
+ACC_A0039,47,669, aCtive ,Legitimate_Awakening
+ACC_N1217,60,5,Active,Normal
+ACC_N0077,44,23,ACTIVE,Normal
+ACC_N0198,57,14,active,Normal
+ACC_N1681,64,24, aCtive ,Normal
+ACC_N1403,56,28, aCtive ,Normal
+ACC_N3431,18,14,Active,Normal
+ACC_N0110,32,9,ACTIVE,Normal
+ACC_N1059,31,11,active,Normal
+ACC_N0922,46,9,ACTIVE,Normal
+ACC_N0861,28,26,active,Normal
+ACC_N3002,37,15, aCtive ,Normal
+ACC_A0317,31,639, aCtive ,Legitimate_Awakening
+ACC_N0486,62,26,Active,Normal
+ACC_N2706,50,23,Inactive,Normal
+ACC_N0575,30,12,ACTIVE,Normal
+ACC_N2217,35,26,ACTIVE,Normal
+ACC_N0563,24,12,active,Normal
+ACC_N3286,51,23,Active,Normal
+ACC_N0840,54,8, aCtive ,Normal
+ACC_N2156,38,13,Inactive,Normal
+ACC_N0737,64,21,ACTIVE,Normal
+ACC_N1080,30,9,Active,Normal
+ACC_N2701,49,13, aCtive ,Normal
+ACC_N3065,40,6,Active,Normal
+ACC_N2184,21,20,ACTIVE,Normal
+ACC_N1048,150,1, aCtive ,Normal
+ACC_N0605,58,21,active,Normal
+ACC_N1996,40,4,active,Normal
+ACC_N0201,36,17, aCtive ,Normal
+ACC_N0100,50,19,INACTIVE,Normal
+ACC_N1276,25,10, aCtive ,Normal
+ACC_N0181,45,20,ACTIVE,Normal
+ACC_A0259,29,632, aCtive ,Legitimate_Awakening
+ACC_A0181,25,216,ACTIVE,Legitimate_Awakening
+ACC_N2646,31,3,INACTIVE,Normal
+ACC_N1580,37,28,ACTIVE,Normal
+ACC_N1119,53,29,ACTIVE,Normal
+ACC_N0270,45,5,Active,Normal
+ACC_M036,21,746,active,Dormant_Mule
+ACC_N3343,36,13, aCtive ,Normal
+ACC_N1223,26,0,active,Normal
+ACC_N0342,59,10,active,Normal
+ACC_N2187,18,20,Active,Normal
+ACC_N2959,41,5,active,Normal
+ACC_N3328,21,5,inactive,Normal
+ACC_N0161,42,20,active,Normal
+ACC_N3167,22,21, aCtive ,Normal
+ACC_N1185,38,11,ACTIVE,Normal
+ACC_N1714,22,28, aCtive ,Normal
+ACC_N2640,45,5, aCtive ,Normal
+ACC_N0028,25,2,active,Normal
+ACC_N2192,150,21,active,Normal
+ACC_N1392,22,1, aCtive ,Normal
+ACC_N1225,47,26, aCtive ,Normal
+ACC_N1075,53,24,active,Normal
+ACC_N2151,23,9,ACTIVE,Normal
+ACC_N2963,24,4,ACTIVE,Normal
+ACC_N1820,26,22, aCtive ,Normal
+ACC_N0809,18,19,ACTIVE,Normal
+ACC_N1873,36,0, aCtive ,Normal
+ACC_N0771,53,22,Inactive,Normal
+ACC_N3350,45,11,active,Normal
+ACC_A0004,48,430, aCtive ,Legitimate_Awakening
+ACC_N0244,19,29, aCtive ,Normal
+ACC_A0077,62,233, aCtive ,Legitimate_Awakening
+ACC_N3113,36,5,inactive,Normal
+ACC_N0587,150,28,ACTIVE,Normal
+ACC_N1632,62,29, aCtive ,Normal
+ACC_N1537,64,27,Active,Normal
+ACC_N2020,22,1,ACTIVE,Normal
+ACC_N0719,47,21,active,Normal
+ACC_N0679,56,28,Active,Normal
+ACC_N2842,37,28, aCtive ,Normal
+ACC_N1229,34,19,Inactive,Normal
+ACC_N0868,38,22, aCtive ,Normal
+ACC_N2072,44,5,Active,Normal
+ACC_N2446,25,2,ACTIVE,Normal
+ACC_N0811,18,23, aCtive ,Normal
+ACC_N1643,50,5,ACTIVE,Normal
+ACC_N1177,34,9,Inactive,Normal
+ACC_N1776,19,11, aCtive ,Normal
+ACC_N0954,32,22,active,Normal
+ACC_N0661,48,20,active,Normal
+ACC_N1122,46,23, aCtive ,Normal
+ACC_A0198,60,667,Active,Legitimate_Awakening
+ACC_N3391,40,24,active,Normal
+ACC_N1611,45,2, aCtive ,Normal
+ACC_N3363,44,7,active,Normal
+ACC_N1757,18,12, aCtive ,Normal
+ACC_N0749,47,24,Active,Normal
+ACC_N2381,31,5,Active,Normal
+ACC_N1140,31,20,ACTIVE,Normal
+ACC_N2462,61,11,active,Normal
+ACC_N1231,58,26,Inactive,Normal
+ACC_N3183,22,10,Active,Normal
+ACC_A0114,56,189, aCtive ,Legitimate_Awakening
+ACC_N3143,26,19,Active,Normal
+ACC_N2463,46,27,Active,Normal
+ACC_M025,52,835, aCtive ,Dormant_Mule
+ACC_N1974,46,14,ACTIVE,Normal
+ACC_N1731,52,28,active,Normal
+ACC_N1577,53,10,Active,Normal
+ACC_A0036,56,583,Active,Legitimate_Awakening
+ACC_N0234,39,23,active,Normal
+ACC_N1453,31,3,Active,Normal
+ACC_N2290,44,12,INACTIVE,Normal
+ACC_N0340,35,1,active,Normal
+ACC_N1385,44,17,active,Normal
+ACC_N0551,26,14, aCtive ,Normal
+ACC_N1853,20,24,ACTIVE,Normal
+ACC_N3206,40,19,Inactive,Normal
+ACC_N2687,34,2, aCtive ,Normal
+ACC_N0581,58,8,ACTIVE,Normal
+ACC_N2206,21,8,ACTIVE,Normal
+ACC_N1605,59,17,Inactive,Normal
+ACC_N2193,48,19,Inactive,Normal
+ACC_A0245,29,687, aCtive ,Legitimate_Awakening
+ACC_N2028,54,16,ACTIVE,Normal
+ACC_N0360,21,11, aCtive ,Normal
+ACC_N1675,19,25,ACTIVE,Normal
+ACC_N0238,50,13,ACTIVE,Normal
+ACC_N1144,55,7, aCtive ,Normal
+ACC_N0530,21,16,active,Normal
+ACC_N2375,36,29, aCtive ,Normal
+ACC_N2546,45,12,active,Normal
+ACC_A0129,27,304,Active,Legitimate_Awakening
+ACC_N0541,37,0, aCtive ,Normal
+ACC_N2328,37,11,active,Normal
+ACC_N2848,56,28,ACTIVE,Normal
+ACC_N2819,24,22,Inactive,Normal
+ACC_N0747,28,24, aCtive ,Normal
+ACC_N0193,64,29,active,Normal
+ACC_N2604,23,6,active,Normal
+ACC_N0150,26,20, aCtive ,Normal
+ACC_N0505,29,0,inactive,Normal
+ACC_N1077,36,25,active,Normal
+ACC_N1965,43,15, aCtive ,Normal
+ACC_N1376,49,5,active,Normal
+ACC_N0144,47,28,ACTIVE,Normal
+ACC_A0027,42,396, aCtive ,Legitimate_Awakening
+ACC_N0390,19,9, aCtive ,Normal
+ACC_N3257,44,11,Inactive,Normal
+ACC_A0371,60,468,ACTIVE,Legitimate_Awakening
+ACC_N3399,60,18, aCtive ,Normal
+ACC_N0328,51,13,active,Normal
+ACC_N2846,40,29,active,Normal
+ACC_N2345,41,23,active,Normal
+ACC_N2969,33,21,Inactive,Normal
+ACC_N1126,32,18, aCtive ,Normal
+ACC_N0166,61,2,active,Normal
+ACC_N2107,56,8,Active,Normal
+ACC_N0045,32,19,Active,Normal
+ACC_N2628,24,25, aCtive ,Normal
+ACC_N2641,27,24,active,Normal
+ACC_N0165,55,20,ACTIVE,Normal
+ACC_A0097,38,264,active,Legitimate_Awakening
+ACC_N3066,18,14,ACTIVE,Normal
+ACC_N2827,52,24,ACTIVE,Normal
+ACC_N1889,27,28,active,Normal
+ACC_A0373,55,373,ACTIVE,Legitimate_Awakening
+ACC_N1720,40,24,Active,Normal
+ACC_N1459,41,24,Active,Normal
+ACC_N0216,44,12,active,Normal
+ACC_N0662,150,8, aCtive ,Normal
+ACC_N2007,36,0,Active,Normal
+ACC_N0043,25,6,active,Normal
+ACC_A0006,43,642,ACTIVE,Legitimate_Awakening
+ACC_N0154,62,19,Active,Normal
+ACC_N2197,54,21,active,Normal
+ACC_N1246,36,14,active,Normal
+ACC_N2535,60,17, aCtive ,Normal
+ACC_A0237,53,625,ACTIVE,Legitimate_Awakening
+ACC_N0259,54,14,ACTIVE,Normal
+ACC_N2784,19,9,ACTIVE,Normal
+ACC_N1422,48,5,active,Normal
+ACC_N2403,32,0,active,Normal
+ACC_N0960,47,29,ACTIVE,Normal
+ACC_A0038,18,321,active,Legitimate_Awakening
+ACC_N1685,27,26, aCtive ,Normal
+ACC_N0930,59,14,active,Normal
+ACC_A0146,39,421,active,Legitimate_Awakening
+ACC_N0208,43,6,Active,Normal
+ACC_N0523,40,15, aCtive ,Normal
+ACC_N0352,20,29,Active,Normal
+ACC_N3372,25,23,ACTIVE,Normal
+ACC_N0343,44,11,ACTIVE,Normal
+ACC_N1572,42,9, aCtive ,Normal
+ACC_N0939,32,10,active,Normal
+ACC_N1520,23,26,Active,Normal
+ACC_N1232,43,7, aCtive ,Normal
+ACC_N3401,54,15,Active,Normal
+ACC_N2225,33,14,active,Normal
+ACC_N2871,25,2,Active,Normal
+ACC_N1561,58,4, aCtive ,Normal
+ACC_N1545,33,17,active,Normal
+ACC_N2913,22,2,active,Normal
+ACC_N0921,49,13, aCtive ,Normal
+ACC_N2550,50,4,active,Normal
+ACC_N2773,56,5,Active,Normal
+ACC_N0245,55,22,ACTIVE,Normal
+ACC_N2362,51,18, aCtive ,Normal
+ACC_N1999,40,3,Inactive,Normal
+ACC_N2780,39,29,active,Normal
+ACC_N0703,28,9,ACTIVE,Normal
+ACC_N0538,22,25,Active,Normal
+ACC_N1985,23,3, aCtive ,Normal
+ACC_N3162,18,23,active,Normal
+ACC_N1434,32,3, aCtive ,Normal
+ACC_N1753,63,14,Active,Normal
+ACC_N1273,26,4,ACTIVE,Normal
+ACC_N2333,20,6,Active,Normal
+ACC_A0126,34,244,Active,Legitimate_Awakening
+ACC_A0297,46,325,active,Legitimate_Awakening
+ACC_N2117,49,4,INACTIVE,Normal
+ACC_A0063,39,446,Active,Legitimate_Awakening
+ACC_N0350,54,28,Active,Normal
+ACC_N0901,49,17,ACTIVE,Normal
+ACC_N2562,32,2,ACTIVE,Normal
+ACC_N0185,61,28, aCtive ,Normal
+ACC_N0384,30,23, aCtive ,Normal
+ACC_N1460,48,20,active,Normal
+ACC_N0592,42,29, aCtive ,Normal
+ACC_N0784,51,3,ACTIVE,Normal
+ACC_N0182,46,21, aCtive ,Normal
+ACC_N0268,40,22,Active,Normal
+ACC_N1707,22,22, aCtive ,Normal
+ACC_N2518,22,27,inactive,Normal
+ACC_N0451,38,1, aCtive ,Normal
+ACC_N1864,19,19,active,Normal
+ACC_N3362,24,9,Inactive,Normal
+ACC_N1811,18,28,active,Normal
+ACC_N0934,33,13,Inactive,Normal
+ACC_N1236,27,17, aCtive ,Normal
+ACC_N3267,54,28, aCtive ,Normal
+ACC_N2540,20,23,ACTIVE,Normal
+ACC_N1261,31,29,active,Normal
+ACC_N0420,60,10,Active,Normal
+ACC_N2079,60,23,active,Normal
+ACC_N1146,35,3,active,Normal
+ACC_N2793,36,8,Inactive,Normal
+ACC_A0388,43,191, aCtive ,Legitimate_Awakening
+ACC_N0767,18,16,active,Normal
+ACC_N2782,43,6,ACTIVE,Normal
+ACC_N0986,33,14,Active,Normal
+ACC_N1287,47,22, aCtive ,Normal
+ACC_N1921,34,1,Active,Normal
+ACC_A0202,56,683,ACTIVE,Legitimate_Awakening
+ACC_N1307,45,15,Active,Normal
+ACC_N0430,38,17,Active,Normal
+ACC_N1014,51,6,active,Normal
+ACC_N2816,32,26,ACTIVE,Normal
+ACC_N2533,19,3,ACTIVE,Normal
+ACC_N2774,57,24,ACTIVE,Normal
+ACC_N0948,24,12,Active,Normal
+ACC_N3014,39,17,inactive,Normal
+ACC_N1117,23,3,ACTIVE,Normal
+ACC_N1909,23,14,ACTIVE,Normal
+ACC_N2378,47,21,ACTIVE,Normal
+ACC_N2044,33,21,INACTIVE,Normal
+ACC_N3090,53,20,ACTIVE,Normal
+ACC_N2665,52,10,Active,Normal
+ACC_A0254,58,450,active,Legitimate_Awakening
+ACC_N2023,61,9,ACTIVE,Normal
+ACC_N1082,21,6,ACTIVE,Normal
+ACC_N0678,23,6,active,Normal
+ACC_N2046,19,16,ACTIVE,Normal
+ACC_N1167,24,10,Active,Normal
+ACC_N0296,56,17,Active,Normal
+ACC_N1870,63,7,ACTIVE,Normal
+ACC_A0363,42,402,Active,Legitimate_Awakening
+ACC_A0290,23,560,active,Legitimate_Awakening
+ACC_N1015,53,15,ACTIVE,Normal
+ACC_N2674,35,17,inactive,Normal
+ACC_N2490,54,6,INACTIVE,Normal
+ACC_N1819,60,26,Active,Normal
+ACC_N3421,24,9,ACTIVE,Normal
+ACC_A0133,45,252,active,Legitimate_Awakening
+ACC_N1948,22,24,Active,Normal
+ACC_N3244,60,22,ACTIVE,Normal
+ACC_N3353,35,25, aCtive ,Normal
+ACC_N2762,25,7,inactive,Normal
+ACC_N2251,45,3,Active,Normal
+ACC_N1728,39,11,Active,Normal
+ACC_N3385,58,26, aCtive ,Normal
+ACC_N2883,50,5, aCtive ,Normal
+ACC_N1688,54,12,active,Normal
+ACC_M028,32,776,Active,Dormant_Mule
+ACC_N1976,47,3, aCtive ,Normal
+ACC_N2627,61,27,ACTIVE,Normal
+ACC_N1673,31,5,Active,Normal
+ACC_N3434,22,22,active,Normal
+ACC_N3175,43,17, aCtive ,Normal
+ACC_N0494,61,17,Active,Normal
+ACC_N0534,53,17,Active,Normal
+ACC_N2874,43,1, aCtive ,Normal
+ACC_N2219,59,12, aCtive ,Normal
+ACC_N0075,25,12, aCtive ,Normal
+ACC_N2133,48,25,Active,Normal
+ACC_N3457,64,4, aCtive ,Normal
+ACC_N0194,34,18, aCtive ,Normal
+ACC_N1438,42,20,Active,Normal
+ACC_N2293,54,10,Inactive,Normal
+ACC_N0989,48,3,active,Normal
+ACC_N1772,56,18,ACTIVE,Normal
+ACC_A0298,44,525,Active,Legitimate_Awakening
+ACC_N1770,36,24,ACTIVE,Normal
+ACC_N0547,56,0,active,Normal
+ACC_N2960,18,17,active,Normal
+ACC_N0129,31,5, aCtive ,Normal
+ACC_N0620,57,24,active,Normal
+ACC_N0273,22,25, aCtive ,Normal
+ACC_N0060,64,23,inactive,Normal
+ACC_A0389,52,381, aCtive ,Legitimate_Awakening
+ACC_N1234,45,14,Active,Normal
+ACC_N0413,57,20,Active,Normal
+ACC_A0201,63,537,ACTIVE,Legitimate_Awakening
+ACC_N2539,35,15, aCtive ,Normal
+ACC_N2745,45,17, aCtive ,Normal
+ACC_N1190,41,24,Inactive,Normal
+ACC_N1991,49,5, aCtive ,Normal
+ACC_N2630,20,7,active,Normal
+ACC_N0211,64,14, aCtive ,Normal
+ACC_N2146,27,18, aCtive ,Normal
+ACC_A0230,31,437, aCtive ,Legitimate_Awakening
+ACC_N1824,39,27,inactive,Normal
+ACC_N1503,43,26,Active,Normal
+ACC_N1311,56,21,active,Normal
+ACC_N2458,33,24, aCtive ,Normal
+ACC_M045,28,538,active,Dormant_Mule
+ACC_A0214,44,498,active,Legitimate_Awakening
+ACC_N2552,64,13,active,Normal
+ACC_N0892,37,20,ACTIVE,Normal
+ACC_N1420,46,3, aCtive ,Normal
+ACC_N0419,25,15,Active,Normal
+ACC_N3429,33,14,Active,Normal
+ACC_N2116,51,28,Active,Normal
+ACC_N0854,60,1,Active,Normal
+ACC_N1955,26,4, aCtive ,Normal
+ACC_N0202,33,26,Active,Normal
+ACC_N0306,37,2,active,Normal
+ACC_N0492,64,22,ACTIVE,Normal
+ACC_A0100,50,672,Active,Legitimate_Awakening
+ACC_N0972,32,20,active,Normal
+ACC_N1133,54,9,Active,Normal
+ACC_N0758,37,17, aCtive ,Normal
+ACC_N1885,48,7,active,Normal
+ACC_N2022,41,11, aCtive ,Normal
+ACC_N0206,34,14,Active,Normal
+ACC_A0340,53,427,active,Legitimate_Awakening
+ACC_N1583,29,23,active,Normal
+ACC_N1530,30,2,active,Normal
+ACC_N0159,63,7,Active,Normal
+ACC_N1619,25,29,ACTIVE,Normal
+ACC_N0172,34,26,ACTIVE,Normal
+ACC_N2332,30,8, aCtive ,Normal
+ACC_A0397,61,593,ACTIVE,Legitimate_Awakening
+ACC_A0260,30,187,Active,Legitimate_Awakening
+ACC_N2475,22,10,active,Normal
+ACC_N1926,23,6,active,Normal
+ACC_N0670,47,14,Active,Normal
+ACC_N0918,58,27,active,Normal
+ACC_N0475,22,12,ACTIVE,Normal
+ACC_A0319,29,401, aCtive ,Legitimate_Awakening
+ACC_N0819,56,2,Active,Normal
+ACC_N0186,27,29,active,Normal
+ACC_N3304,46,5,Inactive,Normal
+ACC_N3178,51,25,ACTIVE,Normal
+ACC_N3318,53,6,active,Normal
+ACC_A0310,57,385,active,Legitimate_Awakening
+ACC_N2633,44,25,active,Normal
+ACC_N0011,28,25,active,Normal
+ACC_N3033,22,15,Active,Normal
+ACC_N1270,26,21,ACTIVE,Normal
+ACC_N2516,60,1,ACTIVE,Normal
+ACC_N1161,54,23, aCtive ,Normal
+ACC_N0762,20,6,Active,Normal
+ACC_N3373,60,25,ACTIVE,Normal
+ACC_N2314,59,24,Active,Normal
+ACC_N0140,50,26,Active,Normal
+ACC_N2070,59,11,ACTIVE,Normal
+ACC_A0262,59,423, aCtive ,Legitimate_Awakening
+ACC_A0056,61,477, aCtive ,Legitimate_Awakening
+ACC_N2071,60,8, aCtive ,Normal
+ACC_N0542,51,13,active,Normal
+ACC_A0206,35,300,ACTIVE,Legitimate_Awakening
+ACC_N1739,30,21,active,Normal
+ACC_N1019,49,7,active,Normal
+ACC_N1780,61,18,active,Normal
+ACC_N2166,51,14,Active,Normal
+ACC_N2111,23,27,Active,Normal
+ACC_N1671,54,21,ACTIVE,Normal
+ACC_N3025,43,21,ACTIVE,Normal
+ACC_N0459,30,22,Active,Normal
+ACC_N1558,40,10,Active,Normal
+ACC_N0029,55,27,INACTIVE,Normal
+ACC_N2534,43,29, aCtive ,Normal
+ACC_N0607,59,28, aCtive ,Normal
+ACC_N0536,55,1, aCtive ,Normal
+ACC_N1366,55,11, aCtive ,Normal
+ACC_N2618,44,7, aCtive ,Normal
+ACC_N0708,43,19,INACTIVE,Normal
+ACC_A0270,22,496,ACTIVE,Legitimate_Awakening
+ACC_N3451,37,27,Active,Normal
+ACC_A0239,25,592,active,Legitimate_Awakening
+ACC_N1407,58,1, aCtive ,Normal
+ACC_N2898,19,5,Active,Normal
+ACC_M005,40,502,active,Dormant_Mule
+ACC_A0253,62,563, aCtive ,Legitimate_Awakening
+ACC_N0121,48,1,active,Normal
+ACC_N2867,31,27,Active,Normal
+ACC_N0442,61,17,ACTIVE,Normal
+ACC_N2676,54,20, aCtive ,Normal
+ACC_N3306,60,16,Active,Normal
+ACC_N1312,48,13,Inactive,Normal
+ACC_N2075,53,13,ACTIVE,Normal
+ACC_N1023,20,3,active,Normal
+ACC_N1290,23,29,ACTIVE,Normal
+ACC_N3099,39,3,ACTIVE,Normal
+ACC_N2967,24,6,active,Normal
+ACC_N2359,33,5,active,Normal
+ACC_N0356,52,8,active,Normal
+ACC_N0647,49,9,Active,Normal
+ACC_N3255,59,20,Inactive,Normal
+ACC_N2622,21,10, aCtive ,Normal
+ACC_A0288,58,479, aCtive ,Legitimate_Awakening
+ACC_N1975,150,21,ACTIVE,Normal
+ACC_N0518,30,4,ACTIVE,Normal
+ACC_N2112,21,2, aCtive ,Normal
+ACC_N0504,54,17,ACTIVE,Normal
+ACC_N3142,58,27,active,Normal
+ACC_N1193,35,7,Active,Normal
+ACC_N0683,39,5, aCtive ,Normal
+ACC_N0433,25,22,Active,Normal
+ACC_N1188,46,4, aCtive ,Normal
+ACC_M056,34,441,Active,Dormant_Mule
+ACC_N0539,37,25, aCtive ,Normal
+ACC_N3287,42,15,Active,Normal
+ACC_N2178,49,28,active,Normal
+ACC_N3413,55,14, aCtive ,Normal
+ACC_N2126,38,28, aCtive ,Normal
+ACC_N1876,52,17, aCtive ,Normal
+ACC_N1020,20,21,active,Normal
+ACC_A0383,19,379,Active,Legitimate_Awakening
+ACC_N1516,29,18,INACTIVE,Normal
+ACC_N3330,38,21,Inactive,Normal
+ACC_N1241,35,5,active,Normal
+ACC_A0344,33,208,ACTIVE,Legitimate_Awakening
+ACC_N0180,22,18, aCtive ,Normal
+ACC_N2425,25,18,active,Normal
+ACC_A0216,31,270,Active,Legitimate_Awakening
+ACC_N2302,41,29, aCtive ,Normal
+ACC_N2924,30,7,Active,Normal
+ACC_N2236,21,25,Inactive,Normal
+ACC_N1998,44,22, aCtive ,Normal
+ACC_N0139,55,10, aCtive ,Normal
+ACC_A0151,61,648,Active,Legitimate_Awakening
+ACC_N1391,39,27, aCtive ,Normal
+ACC_N1199,42,29,active,Normal
+ACC_N3007,43,6,active,Normal
+ACC_N0643,44,6,ACTIVE,Normal
+ACC_N2979,46,1,active,Normal
+ACC_N0305,59,24,Inactive,Normal
+ACC_N1476,22,19,Active,Normal
+ACC_N2155,35,20,Active,Normal
+ACC_N0992,21,18,ACTIVE,Normal
+ACC_N3229,33,8,active,Normal
+ACC_N0432,55,7,active,Normal
+ACC_N1487,48,0,ACTIVE,Normal
+ACC_A0155,22,675,ACTIVE,Legitimate_Awakening
+ACC_A0197,37,681,Active,Legitimate_Awakening
+ACC_N2787,41,28,ACTIVE,Normal
+ACC_N2686,47,6,active,Normal
+ACC_N1062,26,27,ACTIVE,Normal
+ACC_N3130,18,12,ACTIVE,Normal
+ACC_N2788,59,4,ACTIVE,Normal
+ACC_N0890,54,10,Active,Normal
+ACC_N0284,37,1,ACTIVE,Normal
+ACC_N0630,33,22, aCtive ,Normal
+ACC_N0914,55,14, aCtive ,Normal
+ACC_N3261,47,3, aCtive ,Normal
+ACC_N0877,60,21,active,Normal
+ACC_N2910,50,17,active,Normal
+ACC_N0387,49,11,Inactive,Normal
+ACC_N1532,150,2, aCtive ,Normal
+ACC_N3001,45,17,Active,Normal
+ACC_N3199,39,19, aCtive ,Normal
+ACC_N2312,24,16, aCtive ,Normal
+ACC_N0070,55,1,active,Normal
+ACC_N3290,50,0,INACTIVE,Normal
+ACC_N1567,62,13,Active,Normal
+ACC_N2228,25,27,active,Normal
+ACC_N0224,56,4,Active,Normal
+ACC_N1281,35,24,INACTIVE,Normal
+ACC_N1888,49,9, aCtive ,Normal
+ACC_N2778,52,12, aCtive ,Normal
+ACC_N3054,63,21,Active,Normal
+ACC_N0896,22,9,Active,Normal
+ACC_N3147,40,6,active,Normal
+ACC_A0360,45,456,active,Legitimate_Awakening
+ACC_N1282,48,8,Active,Normal
+ACC_N3218,27,7,Active,Normal
+ACC_N3474,39,7,inactive,Normal
+ACC_N3224,54,7,inactive,Normal
+ACC_N1674,36,17, aCtive ,Normal
+ACC_N3288,21,16, aCtive ,Normal
+ACC_N1877,24,22,inactive,Normal
+ACC_N2466,38,19,Active,Normal
+ACC_M013,53,683, aCtive ,Dormant_Mule
+ACC_N1833,59,16,ACTIVE,Normal
+ACC_N2005,27,20,active,Normal
+ACC_N3215,42,12, aCtive ,Normal
+ACC_N2852,44,4,ACTIVE,Normal
+ACC_N2764,48,26,Active,Normal
+ACC_A0264,35,202, aCtive ,Legitimate_Awakening
+ACC_N2136,55,27,Active,Normal
+ACC_N2804,58,29,active,Normal
+ACC_N3302,25,11,Active,Normal
+ACC_N3480,56,16,ACTIVE,Normal
+ACC_N3447,59,20,Active,Normal
+ACC_A0083,32,320,ACTIVE,Legitimate_Awakening
+ACC_N1813,63,16, aCtive ,Normal
+ACC_N3483,21,27,INACTIVE,Normal
+ACC_N2500,63,2,ACTIVE,Normal
+ACC_N2141,51,7,active,Normal
+ACC_N2128,19,29,active,Normal
+ACC_N2601,21,20,active,Normal
+ACC_N2067,37,21, aCtive ,Normal
+ACC_N0300,23,28, aCtive ,Normal
+ACC_N2643,22,4,active,Normal
+ACC_N3078,54,1,Active,Normal
+ACC_N2376,64,25,active,Normal
+ACC_A0071,57,243,Active,Legitimate_Awakening
+ACC_N2743,48,25,active,Normal
+ACC_N1956,42,22,Inactive,Normal
+ACC_N0692,61,25, aCtive ,Normal
+ACC_N2654,36,26,active,Normal
+ACC_N3040,47,6,active,Normal
+ACC_N3163,18,26,ACTIVE,Normal
+ACC_N0568,62,29,active,Normal
+ACC_N3053,45,26,Active,Normal
+ACC_A0108,60,331,ACTIVE,Legitimate_Awakening
+ACC_N2720,52,19,active,Normal
+ACC_N2373,41,5,active,Normal
+ACC_N2395,48,23, aCtive ,Normal
+ACC_N2538,53,28,ACTIVE,Normal
+ACC_N2949,32,0,Active,Normal
+ACC_N0709,33,20,INACTIVE,Normal
+ACC_N2735,62,16, aCtive ,Normal
+ACC_M011,51,491,active,Dormant_Mule
+ACC_N1719,60,28,ACTIVE,Normal
+ACC_N3425,39,18,Active,Normal
+ACC_N0349,64,6, aCtive ,Normal
+ACC_N2105,25,0,active,Normal
+ACC_N2336,34,16,Active,Normal
+ACC_N3192,46,21,active,Normal
+ACC_A0269,19,437,active,Legitimate_Awakening
+ACC_N0549,34,8,ACTIVE,Normal
+ACC_N0007,46,21,ACTIVE,Normal
+ACC_N0497,23,10,active,Normal
+ACC_N0831,54,12,INACTIVE,Normal
+ACC_N0022,28,21,ACTIVE,Normal
+ACC_N2656,30,16,ACTIVE,Normal
+ACC_N1771,59,27,ACTIVE,Normal
+ACC_N0745,150,29,ACTIVE,Normal
+ACC_N0225,21,13,Active,Normal
+ACC_N2100,40,4,active,Normal
+ACC_N3117,40,7,Active,Normal
+ACC_A0042,28,590,Active,Legitimate_Awakening
+ACC_N1556,48,14,inactive,Normal
+ACC_N3089,19,11,active,Normal
+ACC_N2945,25,0,ACTIVE,Normal
+ACC_N2389,47,23, aCtive ,Normal
+ACC_N2142,150,25,ACTIVE,Normal
+ACC_N1349,43,12,ACTIVE,Normal
+ACC_N1553,26,18,ACTIVE,Normal
+ACC_N1424,63,18,ACTIVE,Normal
+ACC_N1359,43,4, aCtive ,Normal
+ACC_N1796,22,20,Active,Normal
+ACC_N2956,55,7, aCtive ,Normal
+ACC_N2453,150,6,INACTIVE,Normal
+ACC_N1648,58,25,inactive,Normal
+ACC_N0584,23,18,ACTIVE,Normal
+ACC_N1570,50,4, aCtive ,Normal
+ACC_N3256,58,9,active,Normal
+ACC_N1094,37,18, aCtive ,Normal
+ACC_N1448,19,7,ACTIVE,Normal
+ACC_N0009,35,1,ACTIVE,Normal
+ACC_N0179,40,14,active,Normal
+ACC_N0266,32,27,INACTIVE,Normal
+ACC_A0096,35,610,ACTIVE,Legitimate_Awakening
+ACC_N0030,49,17,INACTIVE,Normal
+ACC_M008,41,982, aCtive ,Dormant_Mule
+ACC_N0261,47,28, aCtive ,Normal
+ACC_N0081,38,15,active,Normal
+ACC_N1175,62,0, aCtive ,Normal
+ACC_A0293,57,217, aCtive ,Legitimate_Awakening
+ACC_N1738,36,18,ACTIVE,Normal
+ACC_A0186,40,435,ACTIVE,Legitimate_Awakening
+ACC_N2974,44,12,ACTIVE,Normal
+ACC_N3096,45,27,active,Normal
+ACC_N0059,47,23,Active,Normal
+ACC_N2826,46,29, aCtive ,Normal
+ACC_N1897,56,0,active,Normal
+ACC_N3335,56,6,inactive,Normal
+ACC_N0706,50,11,Active,Normal
+ACC_N0010,40,10,inactive,Normal
+ACC_N0339,45,0,Active,Normal
+ACC_N2174,41,29,active,Normal
+ACC_A0028,34,344,Active,Legitimate_Awakening
+ACC_N2122,32,1,ACTIVE,Normal
+ACC_N0981,47,15,active,Normal
+ACC_N1318,21,25, aCtive ,Normal
+ACC_N0361,29,1,ACTIVE,Normal
+ACC_N1978,41,10, aCtive ,Normal
+ACC_N3228,42,29,Active,Normal
+ACC_N2482,49,20,ACTIVE,Normal
+ACC_N3124,56,25, aCtive ,Normal
+ACC_N1690,64,17,active,Normal
+ACC_N0909,61,24,Active,Normal
+ACC_N2481,24,21, aCtive ,Normal
+ACC_N2492,41,21,Active,Normal
+ACC_N3404,55,8, aCtive ,Normal
+ACC_N2324,32,26,active,Normal
+ACC_N2276,47,2,ACTIVE,Normal
+ACC_A0227,36,576, aCtive ,Legitimate_Awakening
+ACC_N0334,38,23,Active,Normal
+ACC_N1347,48,29,active,Normal
+ACC_N1308,47,24,ACTIVE,Normal
+ACC_N2474,35,8,Active,Normal
+ACC_N0297,29,20,active,Normal
+ACC_N2971,45,27,Active,Normal
+ACC_N2581,40,26,active,Normal
+ACC_N3325,51,27,Inactive,Normal
+ACC_N0837,29,1,ACTIVE,Normal
+ACC_N1568,48,28,Active,Normal
+ACC_N2549,51,5,active,Normal
+ACC_N3471,41,24, aCtive ,Normal
+ACC_N0226,27,17,ACTIVE,Normal
+ACC_A0284,47,248, aCtive ,Legitimate_Awakening
+ACC_N0062,23,13, aCtive ,Normal
+ACC_N0146,31,0,inactive,Normal
+ACC_N0330,22,7,Active,Normal
+ACC_N2752,26,26,Active,Normal
+ACC_N3470,27,15,Active,Normal
+ACC_A0337,18,689,active,Legitimate_Awakening
+ACC_N0500,27,20,Inactive,Normal
+ACC_N1186,48,5,ACTIVE,Normal
+ACC_N3131,57,20, aCtive ,Normal
+ACC_N1857,39,11,Active,Normal
+ACC_N2595,24,22,active,Normal
+ACC_N1428,30,3,ACTIVE,Normal
+ACC_N0572,53,17,active,Normal
+ACC_N2047,52,28,Active,Normal
+ACC_N3060,28,18,Active,Normal
+ACC_A0098,63,538,ACTIVE,Legitimate_Awakening
+ACC_N0652,41,21, aCtive ,Normal
+ACC_N0092,63,23, aCtive ,Normal
+ACC_N2536,35,11,Active,Normal
+ACC_N3144,53,9,Active,Normal
+ACC_N0655,61,24, aCtive ,Normal
+ACC_N0557,55,13,Active,Normal
+ACC_N2941,59,4,ACTIVE,Normal
+ACC_N1695,59,21,ACTIVE,Normal
+ACC_N0816,37,12,active,Normal
+ACC_N1357,64,20, aCtive ,Normal
+ACC_N0511,47,15,Active,Normal
+ACC_N1378,53,5,active,Normal
+ACC_N1834,23,10,ACTIVE,Normal
+ACC_N2296,32,0, aCtive ,Normal
+ACC_N2808,45,9,ACTIVE,Normal
+ACC_N2908,41,5,Active,Normal
+ACC_N3070,49,18,inactive,Normal
+ACC_N2069,42,28,active,Normal
+ACC_N0012,150,28,Active,Normal
+ACC_N1816,46,29,Active,Normal
+ACC_N0735,28,16, aCtive ,Normal
+ACC_N1265,31,26, aCtive ,Normal
+ACC_N1284,55,27,Active,Normal
+ACC_A0263,47,440, aCtive ,Legitimate_Awakening
+ACC_N2528,21,14,active,Normal
+ACC_A0013,56,217,active,Legitimate_Awakening
+ACC_N1109,53,18,Active,Normal
+ACC_N0395,37,22,active,Normal
+ACC_N1178,30,27,Active,Normal
+ACC_N1047,58,15,active,Normal
+ACC_N3248,52,21,ACTIVE,Normal
+ACC_N0938,54,13,Active,Normal
+ACC_N0786,22,12,active,Normal
+ACC_N0118,64,16,ACTIVE,Normal
+ACC_N2555,40,28,Inactive,Normal
+ACC_N1787,24,10,active,Normal
+ACC_N1249,26,6,active,Normal
+ACC_N1622,27,27,ACTIVE,Normal
+ACC_N2610,24,21, aCtive ,Normal
+ACC_N1303,57,9, aCtive ,Normal
+ACC_A0060,52,295,ACTIVE,Legitimate_Awakening
+ACC_N2649,20,14,ACTIVE,Normal
+ACC_N0460,36,9,Active,Normal
+ACC_N1865,25,28,inactive,Normal
+ACC_N3193,50,5, aCtive ,Normal
+ACC_N0826,31,8,Active,Normal
+ACC_N2504,48,5,active,Normal
+ACC_N2498,32,1,ACTIVE,Normal
+ACC_N0595,28,17,Active,Normal
+ACC_N3184,26,10,ACTIVE,Normal
+ACC_N3366,35,11,Active,Normal
+ACC_N3190,54,0,active,Normal
+ACC_A0101,56,500,active,Legitimate_Awakening
+ACC_N3023,34,2, aCtive ,Normal
+ACC_N0842,41,12, aCtive ,Normal
+ACC_N0130,37,27,active,Normal
+ACC_N2344,38,7,Inactive,Normal
+ACC_N3308,40,22,ACTIVE,Normal
+ACC_N2222,64,16,active,Normal
+ACC_N1936,41,0,active,Normal
+ACC_N2744,62,11,Active,Normal
+ACC_N1120,59,1,active,Normal
+ACC_N1970,48,14,active,Normal
+ACC_N1838,40,1,Active,Normal
+ACC_N0962,49,16,INACTIVE,Normal
+ACC_N3222,42,11, aCtive ,Normal
+ACC_M053,29,824, aCtive ,Dormant_Mule
+ACC_N0682,33,29, aCtive ,Normal
+ACC_A0010,27,679, aCtive ,Legitimate_Awakening
+ACC_N1848,19,26,active,Normal
+ACC_N0082,50,15,ACTIVE,Normal
+ACC_N1729,43,28, aCtive ,Normal
+ACC_N3326,23,16, aCtive ,Normal
+ACC_A0164,40,405,active,Legitimate_Awakening
+ACC_N0333,52,27,active,Normal
+ACC_N0700,18,24,Active,Normal
+ACC_N2636,64,8, aCtive ,Normal
+ACC_N2756,27,26,Active,Normal
+ACC_N2445,59,6, aCtive ,Normal
+ACC_N2702,28,29,inactive,Normal
+ACC_N0741,57,24,ACTIVE,Normal
+ACC_A0188,21,556,active,Legitimate_Awakening
+ACC_N2952,58,0,active,Normal
+ACC_N0850,62,4,Active,Normal
+ACC_N2374,60,20,Active,Normal
+ACC_N2675,24,25,active,Normal
+ACC_N2165,52,9,active,Normal
+ACC_N1134,28,17,active,Normal
+ACC_N2728,58,24, aCtive ,Normal
+ACC_N1084,18,23, aCtive ,Normal
+ACC_N3024,31,8,ACTIVE,Normal
+ACC_N3093,57,6, aCtive ,Normal
+ACC_N0153,19,28,INACTIVE,Normal
+ACC_N2685,27,20, aCtive ,Normal
+ACC_N0562,54,3,Active,Normal
+ACC_N1414,28,20,active,Normal
+ACC_N2125,58,2, aCtive ,Normal
+ACC_N1076,56,0,active,Normal
+ACC_N1323,61,7,Active,Normal
+ACC_N2363,55,9,Active,Normal
+ACC_N0006,44,2, aCtive ,Normal
+ACC_N3423,59,12,INACTIVE,Normal
+ACC_N2999,25,25,ACTIVE,Normal
+ACC_N2317,46,22,Active,Normal
+ACC_N3161,33,6,ACTIVE,Normal
+ACC_N2825,33,5, aCtive ,Normal
+ACC_N0926,20,20,Active,Normal
+ACC_N1773,25,7,ACTIVE,Normal
+ACC_N1033,55,11,Active,Normal
+ACC_N1989,28,9,ACTIVE,Normal
+ACC_N2064,46,5,active,Normal
+ACC_N1483,26,1,active,Normal
+ACC_N2758,58,7, aCtive ,Normal
+ACC_N3080,21,0,Active,Normal
+ACC_N0702,24,17,ACTIVE,Normal
+ACC_N0865,32,25, aCtive ,Normal
+ACC_A0018,19,329,active,Legitimate_Awakening
+ACC_N1169,51,16,active,Normal
+ACC_N3390,42,24, aCtive ,Normal
+ACC_A0087,41,562,Active,Legitimate_Awakening
+ACC_N1304,29,4,ACTIVE,Normal
+ACC_N0711,44,17,active,Normal
+ACC_N1371,40,27, aCtive ,Normal
+ACC_N2830,20,1,active,Normal
+ACC_N2747,54,29,active,Normal
+ACC_N0640,23,11,ACTIVE,Normal
+ACC_N1221,25,8,Active,Normal
+ACC_N2671,53,24,Active,Normal
+ACC_A0171,48,674,ACTIVE,Legitimate_Awakening
+ACC_N0126,57,10,INACTIVE,Normal
+ACC_N0255,46,15, aCtive ,Normal
+ACC_N1213,46,26,Active,Normal
+ACC_N1310,56,17,INACTIVE,Normal
+ACC_N2349,45,21,active,Normal
+ACC_N1830,54,26, aCtive ,Normal
+ACC_N3383,40,1,ACTIVE,Normal
+ACC_N3337,53,6,active,Normal
+ACC_N0223,33,9,inactive,Normal
+ACC_N1716,23,12, aCtive ,Normal
+ACC_N1916,28,27,ACTIVE,Normal
+ACC_N0260,37,28,Active,Normal
+ACC_N0969,47,5,ACTIVE,Normal
+ACC_N0498,35,3,Active,Normal
+ACC_N2760,35,10, aCtive ,Normal
+ACC_N2149,20,14,ACTIVE,Normal
+ACC_N0727,56,10, aCtive ,Normal
+ACC_N3107,26,19,Active,Normal
+ACC_N0548,38,12,active,Normal
+ACC_N1353,150,20,active,Normal
+ACC_N2234,54,23,Active,Normal
+ACC_N1079,53,2,active,Normal
+ACC_N1566,51,7,active,Normal
+ACC_N1381,24,21,ACTIVE,Normal
+ACC_N1616,43,16,ACTIVE,Normal
+ACC_N0063,49,16,active,Normal
+ACC_N2794,27,3,ACTIVE,Normal
+ACC_N0742,31,9,Active,Normal
+ACC_N0369,58,22,ACTIVE,Normal
+ACC_N3352,26,8,ACTIVE,Normal
+ACC_A0396,22,241,ACTIVE,Legitimate_Awakening
+ACC_N2866,33,1, aCtive ,Normal
+ACC_N1689,38,22,Active,Normal
+ACC_M033,57,536,active,Dormant_Mule
+ACC_N3157,31,26,active,Normal
+ACC_N2741,44,23, aCtive ,Normal
+ACC_A0127,60,671,ACTIVE,Legitimate_Awakening
+ACC_N2858,19,9,Active,Normal
+ACC_N3339,19,25,Active,Normal
+ACC_N1524,43,19,INACTIVE,Normal
+ACC_N1493,31,19, aCtive ,Normal
+ACC_N3134,64,14, aCtive ,Normal
+ACC_N2479,53,14, aCtive ,Normal
+ACC_N2934,40,28,INACTIVE,Normal
+ACC_N2845,48,17,Active,Normal
+ACC_A0353,64,535,ACTIVE,Legitimate_Awakening
+ACC_N1215,35,9,active,Normal
+ACC_N2514,62,27,Active,Normal
+ACC_N1895,48,21, aCtive ,Normal
+ACC_N3032,33,29, aCtive ,Normal
+ACC_N1945,42,4,inactive,Normal
+ACC_N1456,19,4,active,Normal
+ACC_N2576,36,13,ACTIVE,Normal
+ACC_N3264,62,13,inactive,Normal
+ACC_A0369,56,485,ACTIVE,Legitimate_Awakening
+ACC_N0943,47,5,ACTIVE,Normal
+ACC_A0273,34,638, aCtive ,Legitimate_Awakening
+ACC_N3358,56,26,Active,Normal
+ACC_N1280,45,23,Inactive,Normal
+ACC_N3488,63,0,ACTIVE,Normal
+ACC_N1262,30,7,INACTIVE,Normal
+ACC_N1511,57,16,ACTIVE,Normal
+ACC_N0879,42,10,ACTIVE,Normal
+ACC_N2772,59,26,INACTIVE,Normal
+ACC_N0103,20,8,ACTIVE,Normal
+ACC_N1533,26,0,active,Normal
+ACC_N0502,31,3,inactive,Normal
+ACC_N1350,38,9,active,Normal
+ACC_N0975,20,21,Active,Normal
+ACC_A0019,61,181,active,Legitimate_Awakening
+ACC_N3223,60,0,Inactive,Normal
+ACC_A0137,42,269,active,Legitimate_Awakening
+ACC_N2266,20,27,ACTIVE,Normal
+ACC_N0291,30,14,active,Normal
+ACC_N2903,33,14,inactive,Normal
+ACC_N0309,64,19,Active,Normal
+ACC_N1983,63,21,ACTIVE,Normal
+ACC_N2415,43,17,ACTIVE,Normal
+ACC_N3367,63,6,ACTIVE,Normal
+ACC_N3491,42,24,active,Normal
+ACC_N0412,60,17,Active,Normal
+ACC_N3376,31,2,Inactive,Normal
+ACC_N1972,32,6,Active,Normal
+ACC_N0591,57,27,Active,Normal
+ACC_N2418,51,12,active,Normal
+ACC_N0609,30,15,ACTIVE,Normal
+ACC_N1072,40,28,inactive,Normal
+ACC_N2790,20,22, aCtive ,Normal
+ACC_N2306,21,0,Active,Normal
+ACC_N1868,26,4, aCtive ,Normal
+ACC_N3176,20,20,active,Normal
+ACC_A0342,54,415,active,Legitimate_Awakening
+ACC_N3354,52,0,INACTIVE,Normal
+ACC_N2698,35,2,ACTIVE,Normal
+ACC_N2170,22,8, aCtive ,Normal
+ACC_A0175,44,425,active,Legitimate_Awakening
+ACC_N2110,60,21, aCtive ,Normal
+ACC_N1574,20,4,Active,Normal
+ACC_N1804,64,16,Active,Normal
+ACC_N2820,41,22,Inactive,Normal
+ACC_A0054,19,632, aCtive ,Legitimate_Awakening
+ACC_N2659,24,3, aCtive ,Normal
+ACC_N0021,25,3, aCtive ,Normal
+ACC_N2810,45,1, aCtive ,Normal
+ACC_N1389,36,20,ACTIVE,Normal
+ACC_N2341,54,19,active,Normal
+ACC_N1604,50,9,ACTIVE,Normal
+ACC_N3233,33,4,active,Normal
+ACC_N0856,55,11,active,Normal
+ACC_N0744,59,9,active,Normal
+ACC_N2024,47,16, aCtive ,Normal
+ACC_N2104,47,19,ACTIVE,Normal
+ACC_N2543,22,12,active,Normal
+ACC_N1219,58,8,Active,Normal
+ACC_N1730,27,21,active,Normal
+ACC_N3152,47,17,ACTIVE,Normal
+ACC_N1708,62,15, aCtive ,Normal
+ACC_N1703,52,8,Active,Normal
+ACC_N0249,40,9,active,Normal
+ACC_A0014,38,225, aCtive ,Legitimate_Awakening
+ACC_N2670,22,5,ACTIVE,Normal
+ACC_N1174,50,14,ACTIVE,Normal
+ACC_N1406,36,23,Active,Normal
+ACC_N0251,32,17,Active,Normal
+ACC_N1760,63,16,active,Normal
+ACC_N0787,57,26, aCtive ,Normal
+ACC_N0258,18,6,inactive,Normal
+ACC_N0733,31,20, aCtive ,Normal
+ACC_N1226,34,13,ACTIVE,Normal
+ACC_N0404,25,27,ACTIVE,Normal
+ACC_N3022,27,28,active,Normal
+ACC_N2989,36,29,active,Normal
+ACC_N3300,47,10,ACTIVE,Normal
+ACC_N3279,35,1,ACTIVE,Normal
+ACC_A0399,30,475, aCtive ,Legitimate_Awakening
+ACC_N2668,28,21,inactive,Normal
+ACC_N3102,55,16, aCtive ,Normal
+ACC_N0463,43,6, aCtive ,Normal
+ACC_A0327,42,523,active,Legitimate_Awakening
+ACC_N0677,40,29, aCtive ,Normal
+ACC_N0462,57,23,Active,Normal
+ACC_N3369,61,11,Active,Normal
+ACC_N2944,19,23, aCtive ,Normal
+ACC_N0032,27,24, aCtive ,Normal
+ACC_N3211,39,4,ACTIVE,Normal
+ACC_A0281,61,440,ACTIVE,Legitimate_Awakening
+ACC_N2507,23,0,active,Normal
+ACC_N0694,63,23,Inactive,Normal
+ACC_N0052,62,29,Active,Normal
+ACC_A0159,56,668,active,Legitimate_Awakening
+ACC_N0247,38,15, aCtive ,Normal
+ACC_N0533,58,3,inactive,Normal
+ACC_N1264,63,26, aCtive ,Normal
+ACC_N0983,59,26,active,Normal
+ACC_N1442,20,18,Active,Normal
+ACC_N2821,39,18,Active,Normal
+ACC_A0043,36,402, aCtive ,Legitimate_Awakening
+ACC_N1968,47,23,ACTIVE,Normal
+ACC_A0335,33,603,active,Legitimate_Awakening
+ACC_N3351,29,27,active,Normal
+ACC_M034,23,762, aCtive ,Dormant_Mule
+ACC_N0053,22,3,active,Normal
+ACC_N0176,40,27,Active,Normal
+ACC_N1081,31,16, aCtive ,Normal
+ACC_N0257,26,15,Active,Normal
+ACC_N2511,33,29,ACTIVE,Normal
+ACC_N1960,32,26,active,Normal
+ACC_N2899,25,3,active,Normal
+ACC_N2564,24,24,Active,Normal
+ACC_N3364,51,24, aCtive ,Normal
+ACC_N2434,19,25, aCtive ,Normal
+ACC_N2776,55,9,active,Normal
+ACC_A0279,20,365,Active,Legitimate_Awakening
+ACC_N0292,28,10,ACTIVE,Normal
+ACC_N0277,21,4,Active,Normal
+ACC_A0089,63,538, aCtive ,Legitimate_Awakening
+ACC_N2661,23,13,active,Normal
+ACC_N0501,150,3,active,Normal
+ACC_N0987,24,22,active,Normal
+ACC_N1510,31,14,ACTIVE,Normal
+ACC_N0634,59,24,ACTIVE,Normal
+ACC_A0211,20,466, aCtive ,Legitimate_Awakening
+ACC_N1698,20,16,Active,Normal
+ACC_N2551,19,4,Active,Normal
+ACC_N2060,52,7,Active,Normal
+ACC_N0963,47,14,ACTIVE,Normal
+ACC_N0454,28,4,active,Normal
+ACC_N1288,21,27, aCtive ,Normal
+ACC_N2310,29,4, aCtive ,Normal
+ACC_N2837,54,4,ACTIVE,Normal
+ACC_N1759,41,3,ACTIVE,Normal
+ACC_N0456,52,28,active,Normal
+ACC_N0936,26,27,active,Normal
+ACC_N1266,57,11,ACTIVE,Normal
+ACC_A0128,54,555, aCtive ,Legitimate_Awakening
+ACC_N2998,64,19,active,Normal
+ACC_N1548,43,1,active,Normal
+ACC_N0902,45,23, aCtive ,Normal
+ACC_N1839,29,14,active,Normal
+ACC_N2416,46,24, aCtive ,Normal
+ACC_N0848,52,14,Active,Normal
+ACC_N0465,35,5,active,Normal
+ACC_N3454,29,1,active,Normal
+ACC_N1850,34,12,Active,Normal
+ACC_A0061,53,475, aCtive ,Legitimate_Awakening
+ACC_N2076,20,19,active,Normal
+ACC_N1052,20,10,Active,Normal
+ACC_A0026,45,298, aCtive ,Legitimate_Awakening
+ACC_N2316,28,16,active,Normal
+ACC_N0250,46,0,inactive,Normal
+ACC_N2486,24,3,ACTIVE,Normal
+ACC_N1549,37,27,Active,Normal
+ACC_N3333,37,27,inactive,Normal
+ACC_N2692,52,25, aCtive ,Normal
+ACC_A0221,54,519,ACTIVE,Legitimate_Awakening
+ACC_N0817,59,8, aCtive ,Normal
+ACC_N3445,47,29,ACTIVE,Normal
+ACC_N0828,40,3,ACTIVE,Normal
+ACC_A0069,40,232,Active,Legitimate_Awakening
+ACC_N0707,59,3,Active,Normal
+ACC_A0379,51,333,ACTIVE,Legitimate_Awakening
+ACC_N2379,150,24,Active,Normal
+ACC_N2570,60,17,INACTIVE,Normal
+ACC_N0628,63,12,active,Normal
+ACC_N1124,57,14, aCtive ,Normal
+ACC_N1125,19,3,ACTIVE,Normal
+ACC_N2181,61,11, aCtive ,Normal
+ACC_A0078,60,222,ACTIVE,Legitimate_Awakening
+ACC_A0307,26,378, aCtive ,Legitimate_Awakening
+ACC_N3460,21,27, aCtive ,Normal
+ACC_N2767,18,12,Active,Normal
+ACC_N2167,30,21,ACTIVE,Normal
+ACC_N1222,42,14,ACTIVE,Normal
+ACC_A0118,55,469,active,Legitimate_Awakening
+ACC_N0773,51,5, aCtive ,Normal
+ACC_N0740,60,14, aCtive ,Normal
+ACC_N2719,26,20,active,Normal
+ACC_N2118,64,21,ACTIVE,Normal
+ACC_N0056,51,13, aCtive ,Normal
+ACC_N2096,39,24,active,Normal
+ACC_N2578,19,6,active,Normal
+ACC_N3499,23,1,active,Normal
+ACC_N3008,59,4,inactive,Normal
+ACC_N0510,24,14, aCtive ,Normal
+ACC_N2608,34,2,Inactive,Normal
+ACC_N0769,29,10,ACTIVE,Normal
+ACC_N3087,48,18,active,Normal
+ACC_N1664,49,17,active,Normal
+ACC_N1068,39,23,ACTIVE,Normal
+ACC_A0223,54,528,active,Legitimate_Awakening
+ACC_N2606,51,15,active,Normal
+ACC_N0078,60,11,ACTIVE,Normal
+ACC_N3298,46,9, aCtive ,Normal
+ACC_N2884,51,18,active,Normal
+ACC_N2148,32,8,INACTIVE,Normal
+ACC_N3487,39,12,active,Normal
+ACC_N0265,31,25,active,Normal
+ACC_N3289,61,24,active,Normal
+ACC_N0553,30,17,Active,Normal
+ACC_N2093,36,2, aCtive ,Normal
+ACC_N1842,46,6, aCtive ,Normal
+ACC_N3159,23,13,active,Normal
+ACC_N0935,63,20,Inactive,Normal
+ACC_N0175,28,8,active,Normal
+ACC_N3076,60,23,Active,Normal
+ACC_N0978,63,16,active,Normal
+ACC_N2271,48,7,inactive,Normal
+ACC_N2499,22,6,Active,Normal
+ACC_A0355,64,321,active,Legitimate_Awakening
+ACC_N1626,42,20, aCtive ,Normal
+ACC_N0124,63,12,active,Normal
+ACC_N3458,21,21, aCtive ,Normal
+ACC_N1313,46,16,ACTIVE,Normal
+ACC_N1348,18,3,ACTIVE,Normal
+ACC_N0318,57,29,active,Normal
+ACC_N1946,31,21,active,Normal
+ACC_N2029,38,28,ACTIVE,Normal
+ACC_N0793,55,8,Inactive,Normal
+ACC_N0512,39,3,ACTIVE,Normal
+ACC_N0668,38,7,ACTIVE,Normal
+ACC_N0088,39,19,Active,Normal
+ACC_N2456,34,20,ACTIVE,Normal
+ACC_N2666,37,3,ACTIVE,Normal
+ACC_N0807,150,27,Active,Normal
+ACC_A0213,58,208,Active,Legitimate_Awakening
+ACC_N0799,60,4, aCtive ,Normal
+ACC_A0103,25,199,active,Legitimate_Awakening
+ACC_N2183,61,23, aCtive ,Normal
+ACC_N2421,32,24,Active,Normal
+ACC_N0862,63,24,inactive,Normal
+ACC_N2968,59,29,ACTIVE,Normal
+ACC_N3114,31,4,Active,Normal
+ACC_A0122,58,208,ACTIVE,Legitimate_Awakening
+ACC_N2134,30,1, aCtive ,Normal
+ACC_N2017,43,1, aCtive ,Normal
+ACC_N3148,41,23, aCtive ,Normal
+ACC_N0469,29,9,ACTIVE,Normal
+ACC_N3490,150,24,INACTIVE,Normal
+ACC_N0484,51,17,INACTIVE,Normal
+ACC_N0971,44,27,active,Normal
+ACC_A0242,46,479,Active,Legitimate_Awakening
+ACC_N1435,49,7,Active,Normal
+ACC_N0597,29,28,ACTIVE,Normal
+ACC_N1937,20,9,Active,Normal
+ACC_N0440,24,25,Inactive,Normal
+ACC_N0714,61,15, aCtive ,Normal
+ACC_N1697,150,9,ACTIVE,Normal
+ACC_N0696,23,22,Inactive,Normal
+ACC_N0105,23,12, aCtive ,Normal
+ACC_N2208,37,25, aCtive ,Normal
+ACC_N1458,29,13,ACTIVE,Normal
+ACC_N0294,53,8,active,Normal
+ACC_N2978,51,23,Active,Normal
+ACC_N0152,62,29,Inactive,Normal
+ACC_A0351,46,497,active,Legitimate_Awakening
+ACC_N2717,52,14,Active,Normal
+ACC_N1437,19,24,INACTIVE,Normal
+ACC_A0385,23,232,active,Legitimate_Awakening
+ACC_N1659,37,27, aCtive ,Normal
+ACC_N2269,21,7, aCtive ,Normal
+ACC_N1623,19,16,ACTIVE,Normal
+ACC_N1927,51,26, aCtive ,Normal
+ACC_N1209,55,1,active,Normal
+ACC_N0606,48,5,ACTIVE,Normal
+ACC_N0101,25,0,Active,Normal
+ACC_N1212,36,17,active,Normal
+ACC_N1491,50,26,ACTIVE,Normal
+ACC_N0450,33,10, aCtive ,Normal
+ACC_N1957,53,21,active,Normal
+ACC_M018,48,767,ACTIVE,Dormant_Mule
+ACC_N2958,39,0,Active,Normal
+ACC_A0094,30,692,active,Legitimate_Awakening
+ACC_N0880,46,12,active,Normal
+ACC_N2919,47,15,ACTIVE,Normal
+ACC_N2809,51,22,ACTIVE,Normal
+ACC_N0069,46,29, aCtive ,Normal
+ACC_N0622,51,3, aCtive ,Normal
+ACC_N1668,64,15,active,Normal
+ACC_N0789,39,9,Active,Normal
+ACC_A0163,63,530, aCtive ,Legitimate_Awakening
+ACC_N1045,52,13,Active,Normal
+ACC_A0017,19,598,ACTIVE,Legitimate_Awakening
+ACC_N1404,51,28,ACTIVE,Normal
+ACC_M049,18,540, aCtive ,Dormant_Mule
+ACC_N3119,64,25,active,Normal
+ACC_N0488,21,21,ACTIVE,Normal
+ACC_N0835,48,9,Active,Normal
+ACC_N2006,45,22,active,Normal
+ACC_N2567,46,1,INACTIVE,Normal
+ACC_N2783,64,25,ACTIVE,Normal
+ACC_N1601,50,26, aCtive ,Normal
+ACC_N1554,19,9,INACTIVE,Normal
+ACC_N3019,47,21,active,Normal
+ACC_N0425,41,25,active,Normal
+ACC_N1409,27,1,Active,Normal
+ACC_N3105,38,28,active,Normal
+ACC_N1239,56,12,active,Normal
+ACC_N1933,23,27,ACTIVE,Normal
+ACC_N3136,45,21,Active,Normal
+ACC_N2284,22,17,Active,Normal
+ACC_N1575,38,26,INACTIVE,Normal
+ACC_N2602,58,1,active,Normal
+ACC_N0565,19,20,ACTIVE,Normal
+ACC_N2426,18,29, aCtive ,Normal
+ACC_N2613,44,29,active,Normal
+ACC_N1602,18,0,Active,Normal
+ACC_N3041,18,4,active,Normal
+ACC_A0050,24,461,active,Legitimate_Awakening
+ACC_N0924,23,25,ACTIVE,Normal
+ACC_N1443,56,13,ACTIVE,Normal
+ACC_N3097,37,25,ACTIVE,Normal
+ACC_N1418,23,1,INACTIVE,Normal
+ACC_N2876,60,0,ACTIVE,Normal
+ACC_A0111,30,555, aCtive ,Legitimate_Awakening
+ACC_A0141,32,691,active,Legitimate_Awakening
+ACC_N2496,51,23, aCtive ,Normal
+ACC_N2260,47,23, aCtive ,Normal
+ACC_N1992,42,7,ACTIVE,Normal
+ACC_N0320,64,27,Inactive,Normal
+ACC_N0423,27,8,Active,Normal
+ACC_N2032,53,0, aCtive ,Normal
+ACC_N2334,42,10,active,Normal
+ACC_N3455,22,26,Active,Normal
+ACC_N1849,36,20,Active,Normal
+ACC_A0318,53,657,Active,Legitimate_Awakening
+ACC_N1845,58,9,ACTIVE,Normal
+ACC_N1016,47,24,ACTIVE,Normal
+ACC_N3387,150,16,ACTIVE,Normal
+ACC_N1523,49,21,active,Normal
+ACC_N2109,39,3, aCtive ,Normal
+ACC_N2214,30,17,Active,Normal
+ACC_N1678,35,9,inactive,Normal
+ACC_N2930,19,13,ACTIVE,Normal
+ACC_N0023,47,18, aCtive ,Normal
+ACC_N2417,49,25,Active,Normal
+ACC_N2861,31,6,inactive,Normal
+ACC_N0437,36,10, aCtive ,Normal
+ACC_N1387,63,5,Active,Normal
+ACC_A0218,62,273, aCtive ,Legitimate_Awakening
+ACC_N3309,47,14,ACTIVE,Normal
+ACC_A0267,39,445, aCtive ,Legitimate_Awakening
+ACC_N2326,60,18, aCtive ,Normal
+ACC_N0142,52,2,Active,Normal
+ACC_N2872,150,14, aCtive ,Normal
+ACC_N2864,43,27,active,Normal
+ACC_N1670,58,17,Active,Normal
+ACC_N1592,49,5, aCtive ,Normal
+ACC_A0008,46,604,active,Legitimate_Awakening
+ACC_N0945,37,27,Active,Normal
+ACC_N0772,40,23,ACTIVE,Normal
+ACC_A0314,52,335,Active,Legitimate_Awakening
+ACC_A0212,54,617,Active,Legitimate_Awakening
+ACC_N0814,24,1, aCtive ,Normal
+ACC_N1157,59,7,active,Normal
+ACC_N0274,19,15,inactive,Normal
+ACC_N1214,41,24,Active,Normal
+ACC_N0596,26,29,Active,Normal
+ACC_N3101,57,6,Inactive,Normal
+ACC_N0686,49,28, aCtive ,Normal
+ACC_N2763,60,18,Active,Normal
+ACC_N3444,32,10,active,Normal
+ACC_N1747,42,12, aCtive ,Normal
+ACC_N1066,47,24,ACTIVE,Normal
+ACC_N2480,51,0,ACTIVE,Normal
+ACC_N2873,48,15, aCtive ,Normal
+ACC_N1233,28,25,active,Normal
+ACC_N0476,36,17, aCtive ,Normal
+ACC_N2906,46,9, aCtive ,Normal
+ACC_N2171,53,0,INACTIVE,Normal
+ACC_N3442,46,28,INACTIVE,Normal
+ACC_N2059,20,13,Active,Normal
+ACC_N2074,28,5,ACTIVE,Normal
+ACC_N1763,18,26,active,Normal
+ACC_N1112,59,14,Active,Normal
+ACC_N1278,23,1,ACTIVE,Normal
+ACC_A0005,37,534, aCtive ,Legitimate_Awakening
+ACC_N0731,26,19,ACTIVE,Normal
+ACC_N1721,27,20,inactive,Normal
+ACC_M020,33,396,ACTIVE,Dormant_Mule
+ACC_N0959,55,15,Inactive,Normal
+ACC_N1104,20,13,Active,Normal
+ACC_N0230,63,23,INACTIVE,Normal
+ACC_N0242,59,16, aCtive ,Normal
+ACC_N3266,21,9, aCtive ,Normal
+ACC_N1881,53,28, aCtive ,Normal
+ACC_A0072,42,631,ACTIVE,Legitimate_Awakening
+ACC_N1852,27,23,ACTIVE,Normal
+ACC_N0931,31,19, aCtive ,Normal
+ACC_N0659,31,6,active,Normal
+ACC_N2737,51,19,ACTIVE,Normal
+ACC_N0220,56,11,active,Normal
+ACC_N2799,52,7,ACTIVE,Normal
+ACC_N1882,24,8,Active,Normal
+ACC_N1449,54,21,Active,Normal
+ACC_N3202,38,8, aCtive ,Normal
+ACC_N2896,64,17,Active,Normal
+ACC_N3118,45,2,ACTIVE,Normal
+ACC_N2153,49,8,ACTIVE,Normal
+ACC_N1137,26,2,Active,Normal
+ACC_N3489,30,16,Active,Normal
+ACC_N2865,33,0,Active,Normal
+ACC_N0410,55,7, aCtive ,Normal
+ACC_N2574,50,18,Active,Normal
+ACC_N0821,55,23,ACTIVE,Normal
+ACC_N0751,26,0,Active,Normal
+ACC_N3035,36,15, aCtive ,Normal
+ACC_N0993,49,23, aCtive ,Normal
+ACC_N1534,31,25,ACTIVE,Normal
+ACC_N3189,52,24,ACTIVE,Normal
+ACC_N1587,33,27,Active,Normal
+ACC_N2157,32,2,ACTIVE,Normal
+ACC_N2437,21,20,active,Normal
+ACC_N0899,58,6,ACTIVE,Normal
+ACC_N1182,30,27,active,Normal
+ACC_N2733,32,11,active,Normal
+ACC_N0215,55,27,ACTIVE,Normal
+ACC_N2915,55,21,active,Normal
+ACC_N1576,29,2,ACTIVE,Normal
+ACC_N0667,39,2,ACTIVE,Normal
+ACC_N2298,26,22,INACTIVE,Normal
+ACC_A0145,31,423,active,Legitimate_Awakening
+ACC_N1509,49,26,active,Normal
+ACC_N2419,53,0,Active,Normal
+ACC_N1597,30,1,ACTIVE,Normal
+ACC_N1194,50,4,inactive,Normal
+ACC_N1828,25,17, aCtive ,Normal
+ACC_N1046,53,25, aCtive ,Normal
+ACC_N1751,56,7,Active,Normal
+ACC_N1829,37,12,INACTIVE,Normal
+ACC_N2995,42,20, aCtive ,Normal
+ACC_N2443,63,8,active,Normal
+ACC_N2894,50,8, aCtive ,Normal
+ACC_N2715,19,17, aCtive ,Normal
+ACC_N3061,50,26,ACTIVE,Normal
+ACC_N2936,49,0,active,Normal
+ACC_N2877,52,7, aCtive ,Normal
+ACC_N1289,37,0,ACTIVE,Normal
+ACC_N0157,29,7, aCtive ,Normal
+ACC_A0144,64,205,ACTIVE,Legitimate_Awakening
+ACC_N3464,40,5,ACTIVE,Normal
+ACC_N2369,22,15,active,Normal
+ACC_N0571,60,19,ACTIVE,Normal
+ACC_N0192,45,18, aCtive ,Normal
+ACC_N1517,34,14,Active,Normal
+ACC_N1919,35,22, aCtive ,Normal
+ACC_N0841,37,24, aCtive ,Normal
+ACC_N3050,18,27,ACTIVE,Normal
+ACC_N0532,44,12, aCtive ,Normal
+ACC_A0392,32,199,ACTIVE,Legitimate_Awakening
+ACC_N0421,61,18,active,Normal
+ACC_N0233,64,20,ACTIVE,Normal
+ACC_N2054,27,27,active,Normal
+ACC_N0367,42,18,Active,Normal
+ACC_N1880,32,17, aCtive ,Normal
+ACC_N3281,20,10,active,Normal
+ACC_N2270,29,0,Active,Normal
+ACC_N1712,23,11,ACTIVE,Normal
+ACC_N1499,64,3,Active,Normal
+ACC_N1457,56,4,active,Normal
+ACC_N0833,40,2, aCtive ,Normal
+ACC_M027,34,530,Active,Dormant_Mule
+ACC_N0207,19,18,Active,Normal
+ACC_N1300,20,29,ACTIVE,Normal
+ACC_N1181,43,29,ACTIVE,Normal
+ACC_N3115,43,9,INACTIVE,Normal
+ACC_N0107,26,28,ACTIVE,Normal
+ACC_N3323,32,12,active,Normal
+ACC_N2806,28,0,active,Normal
+ACC_M014,61,543,Active,Dormant_Mule
+ACC_N2137,23,15,ACTIVE,Normal
+ACC_N1042,47,13,ACTIVE,Normal
+ACC_N1093,20,9,Active,Normal
+ACC_N1710,55,4, aCtive ,Normal
+ACC_N0774,21,4,ACTIVE,Normal
+ACC_N0804,27,19,ACTIVE,Normal
+ACC_N3226,48,3, aCtive ,Normal
+ACC_N0214,150,27,ACTIVE,Normal
+ACC_N1494,47,15,active,Normal
+ACC_N1768,31,14,active,Normal
+ACC_N2600,28,12, aCtive ,Normal
+ACC_N2053,56,26, aCtive ,Normal
+ACC_N2449,18,17,inactive,Normal
+ACC_N3394,35,20,active,Normal
+ACC_N2909,42,29,active,Normal
+ACC_A0029,18,690,active,Legitimate_Awakening
+ACC_A0256,36,674,active,Legitimate_Awakening
+ACC_N2056,62,8, aCtive ,Normal
+ACC_N2624,24,13, aCtive ,Normal
+ACC_N2307,28,7,Active,Normal
+ACC_N2027,20,28, aCtive ,Normal
+ACC_N2313,60,6,active,Normal
+ACC_N0040,33,14,ACTIVE,Normal
+ACC_M012,21,752,active,Dormant_Mule
+ACC_N0138,55,17,active,Normal
+ACC_N0015,59,2, aCtive ,Normal
+ACC_N3331,28,4,Active,Normal
+ACC_N1684,34,28,ACTIVE,Normal
+ACC_N1067,38,16,ACTIVE,Normal
+ACC_A0384,34,222,Active,Legitimate_Awakening
+ACC_N1461,44,27,active,Normal
+ACC_N2710,18,15, aCtive ,Normal
+ACC_N1769,21,3,active,Normal
+ACC_N1973,46,22,ACTIVE,Normal
+ACC_A0292,64,369,ACTIVE,Legitimate_Awakening
+ACC_N2438,150,10,active,Normal
+ACC_N1620,26,13,Inactive,Normal
+ACC_N2596,31,12, aCtive ,Normal
+ACC_N2529,26,7,ACTIVE,Normal
+ACC_N1594,35,2, aCtive ,Normal
+ACC_N0968,19,3,active,Normal
+ACC_N2984,34,25,active,Normal
+ACC_N2991,40,29, aCtive ,Normal
+ACC_N3301,55,13, aCtive ,Normal
+ACC_N3194,52,18, aCtive ,Normal
+ACC_N0942,55,4,ACTIVE,Normal
+ACC_N3453,27,0,active,Normal
+ACC_N0729,31,3,ACTIVE,Normal
+ACC_N3221,47,25,ACTIVE,Normal
+ACC_N3052,64,18, aCtive ,Normal
+ACC_N1777,40,18,ACTIVE,Normal
+ACC_N2691,43,28,Active,Normal
+ACC_N2037,26,23,Active,Normal
+ACC_N0639,34,29,Active,Normal
+ACC_N0091,45,8,Active,Normal
+ACC_N3452,26,3,Active,Normal
+ACC_N1343,39,24, aCtive ,Normal
+ACC_N1559,23,25,ACTIVE,Normal
+ACC_N1896,48,11,ACTIVE,Normal
+ACC_N2194,54,15,Active,Normal
+ACC_N2805,27,27,ACTIVE,Normal
+ACC_N2880,51,15,Active,Normal
+ACC_N2487,30,3,ACTIVE,Normal
+ACC_N1903,27,11, aCtive ,Normal
+ACC_N2605,22,27,active,Normal
+ACC_N0910,28,1,Active,Normal
+ACC_N0102,22,15, aCtive ,Normal
+ACC_N2015,57,6, aCtive ,Normal
+ACC_N1954,57,4,Active,Normal
+ACC_N0080,27,17,Active,Normal
+ACC_N1624,49,16, aCtive ,Normal
+ACC_N0122,42,18,Active,Normal
+ACC_N1191,47,22,Active,Normal
+ACC_A0195,61,283,active,Legitimate_Awakening
+ACC_N0418,59,2,inactive,Normal
+ACC_N2257,30,19,active,Normal
+ACC_N1618,47,17,Active,Normal
+ACC_N0834,48,23, aCtive ,Normal
+ACC_N3100,24,15,ACTIVE,Normal
+ACC_N1666,47,19,Active,Normal
+ACC_N2360,25,1,Active,Normal
+ACC_N2639,53,6,ACTIVE,Normal
+ACC_N2946,37,4,ACTIVE,Normal
+ACC_N0240,50,25,ACTIVE,Normal
+ACC_N0531,55,15,active,Normal
+ACC_N0665,18,27,active,Normal
+ACC_N2527,19,17,active,Normal
+ACC_N1660,23,1, aCtive ,Normal
+ACC_N1470,55,21,Active,Normal
+ACC_N3098,39,0,INACTIVE,Normal
+ACC_N3146,30,11, aCtive ,Normal
+ACC_N2091,28,17, aCtive ,Normal
+ACC_N1928,18,3,ACTIVE,Normal
+ACC_N2609,25,8,inactive,Normal
+ACC_N2679,39,4,ACTIVE,Normal
+ACC_N2616,40,15,active,Normal
+ACC_N0248,61,6,Active,Normal
+ACC_N2501,25,20,Active,Normal
+ACC_N0768,22,5,Active,Normal
+ACC_N2221,39,21, aCtive ,Normal
+ACC_N3377,55,10, aCtive ,Normal
+ACC_N0064,63,16, aCtive ,Normal
+ACC_N3082,59,27,inactive,Normal
+ACC_N2940,62,16, aCtive ,Normal
+ACC_N3345,52,3,Active,Normal
+ACC_N0119,46,25,Active,Normal
+ACC_N3446,31,8,ACTIVE,Normal
+ACC_A0177,55,327,Active,Legitimate_Awakening
+ACC_N0798,60,21, aCtive ,Normal
+ACC_N1560,34,13, aCtive ,Normal
+ACC_N0317,49,28,active,Normal
+ACC_N2951,24,24,Active,Normal
+ACC_N0042,20,0,Active,Normal
+ACC_N0237,61,16,ACTIVE,Normal
+ACC_N0190,62,12,ACTIVE,Normal
+ACC_A0228,64,440, aCtive ,Legitimate_Awakening
+ACC_N2801,24,5,active,Normal
+ACC_M050,58,780,Active,Dormant_Mule
+ACC_N3227,60,2,Active,Normal
+ACC_N0246,44,5,active,Normal
+ACC_N3403,25,18,Active,Normal
+ACC_N2180,47,15,ACTIVE,Normal
+ACC_N0996,47,8,active,Normal
+ACC_N0127,39,13,Active,Normal
+ACC_N1202,27,19,Inactive,Normal
+ACC_N2304,44,14,ACTIVE,Normal
+ACC_N1402,49,19, aCtive ,Normal
+ACC_N0873,150,3,Active,Normal
+ACC_N0691,36,4,active,Normal
+ACC_N2560,59,8,ACTIVE,Normal
+ACC_N0199,36,2,ACTIVE,Normal
+ACC_N3016,46,20, aCtive ,Normal
+ACC_N1508,22,26,active,Normal
+ACC_N2478,35,23, aCtive ,Normal
+ACC_N3427,31,24,ACTIVE,Normal
+ACC_N1408,56,8,Active,Normal
+ACC_N0897,31,15,active,Normal
+ACC_N3361,39,5,Active,Normal
+ACC_N0895,60,8,Active,Normal
+ACC_A0185,43,229, aCtive ,Legitimate_Awakening
+ACC_N1519,59,26,ACTIVE,Normal
+ACC_N1504,48,22,Active,Normal
+ACC_N1814,62,26,active,Normal
+ACC_A0093,56,429, aCtive ,Legitimate_Awakening
+ACC_N3047,44,8,active,Normal
+ACC_N2645,39,10,Active,Normal
+ACC_A0135,31,258,active,Legitimate_Awakening
+ACC_N0196,22,28, aCtive ,Normal
+ACC_A0200,61,580, aCtive ,Legitimate_Awakening
+ACC_N2878,18,13,Inactive,Normal
+ACC_N1159,61,16,active,Normal
+ACC_N1329,52,11, aCtive ,Normal
+ACC_N2700,19,21, aCtive ,Normal
+ACC_N0203,54,20,ACTIVE,Normal
+ACC_N1011,47,13, aCtive ,Normal
+ACC_N2460,25,22,Active,Normal
+ACC_N2038,39,5,active,Normal
+ACC_N2885,39,7,ACTIVE,Normal
+ACC_N0263,57,4,Active,Normal
+ACC_N1651,37,21,Active,Normal
+ACC_N2186,52,3,active,Normal
+ACC_N0464,24,8,ACTIVE,Normal
+ACC_N1677,49,13, aCtive ,Normal
+ACC_N3071,62,24,ACTIVE,Normal
+ACC_N1692,64,4, aCtive ,Normal
+ACC_N2771,48,25,active,Normal
+ACC_N2933,38,1,active,Normal
+ACC_N2488,18,26,Inactive,Normal
+ACC_A0073,64,226,Active,Legitimate_Awakening
+ACC_N3275,39,15,Active,Normal
+ACC_N2352,63,26,active,Normal
+ACC_N3062,38,26,INACTIVE,Normal
+ACC_N1430,20,19,active,Normal
+ACC_N1775,51,28,active,Normal
+ACC_N2367,20,12,Active,Normal
+ACC_N0392,19,11,ACTIVE,Normal
+ACC_N0345,33,2,Active,Normal
+ACC_N2510,40,0,ACTIVE,Normal
+ACC_A0025,41,618, aCtive ,Legitimate_Awakening
+ACC_N2532,55,26, aCtive ,Normal
+ACC_N3057,32,2, aCtive ,Normal
+ACC_A0147,34,533,Active,Legitimate_Awakening
+ACC_N0049,18,19,Active,Normal
+ACC_N2579,46,5,Active,Normal
+ACC_N2868,50,12,active,Normal
+ACC_N3012,46,11,Active,Normal
+ACC_N2402,49,24,active,Normal
+ACC_N1522,52,14, aCtive ,Normal
+ACC_N0329,63,3,Active,Normal
+ACC_N1283,63,1,active,Normal
+ACC_N1606,30,29, aCtive ,Normal
+ACC_N0205,23,3,INACTIVE,Normal
+ACC_N0574,24,23,Active,Normal
+ACC_N1086,43,24,ACTIVE,Normal
+ACC_N1129,23,7,inactive,Normal
+ACC_N0778,28,23,ACTIVE,Normal
+ACC_N1488,33,16, aCtive ,Normal
+ACC_N1097,57,7,Inactive,Normal
+ACC_A0370,44,188,ACTIVE,Legitimate_Awakening
+ACC_N1410,27,16,active,Normal
+ACC_N1924,63,25,active,Normal
+ACC_N3083,51,2,active,Normal
+ACC_A0376,37,395, aCtive ,Legitimate_Awakening
+ACC_A0350,44,348,ACTIVE,Legitimate_Awakening
+ACC_N2083,36,17,Active,Normal
+ACC_A0338,58,197,ACTIVE,Legitimate_Awakening
+ACC_N3473,25,3, aCtive ,Normal
+ACC_N0368,33,20,active,Normal
+ACC_N2824,43,22, aCtive ,Normal
+ACC_N3020,38,7,active,Normal
+ACC_N2255,19,7, aCtive ,Normal
+ACC_N2648,39,24,Active,Normal
+ACC_N0791,52,17,active,Normal
+ACC_N2063,39,24,INACTIVE,Normal
+ACC_N2343,35,8,ACTIVE,Normal
+ACC_N0570,50,10, aCtive ,Normal
+ACC_N2843,30,28,ACTIVE,Normal
+ACC_A0268,58,206, aCtive ,Legitimate_Awakening
+ACC_N3260,20,0,Active,Normal
+ACC_N0241,38,19,ACTIVE,Normal
+ACC_N2035,26,28,INACTIVE,Normal
+ACC_N0580,62,16,Active,Normal
+ACC_N1441,47,14, aCtive ,Normal
+ACC_N1180,33,16,active,Normal
+ACC_N2431,49,13, aCtive ,Normal
+ACC_N0552,32,4,active,Normal
+ACC_N3156,50,12, aCtive ,Normal
+ACC_N2250,36,20,active,Normal
+ACC_N1647,26,3, aCtive ,Normal
+ACC_M039,30,555,ACTIVE,Dormant_Mule
+ACC_N3216,57,22,active,Normal
+ACC_A0303,53,443,active,Legitimate_Awakening
+ACC_N1257,43,26,ACTIVE,Normal
+ACC_N0802,62,9, aCtive ,Normal
+ACC_N3378,59,12,active,Normal
+ACC_N0713,22,20,ACTIVE,Normal
+ACC_A0167,30,309, aCtive ,Legitimate_Awakening
+ACC_N3476,31,16,active,Normal
+ACC_N0514,33,8,active,Normal
+ACC_N0887,28,23, aCtive ,Normal
+ACC_M032,31,616,ACTIVE,Dormant_Mule
+ACC_N1718,39,14,active,Normal
+ACC_N1321,53,0, aCtive ,Normal
+ACC_A0119,60,197,active,Legitimate_Awakening
+ACC_N2220,39,24,INACTIVE,Normal
+ACC_N1162,49,19,active,Normal
+ACC_N2144,26,13,Active,Normal
+ACC_N2397,26,22,ACTIVE,Normal
+ACC_A0349,62,287,ACTIVE,Legitimate_Awakening
+ACC_N0506,49,11,Active,Normal
+ACC_N0435,51,24, aCtive ,Normal
+ACC_N3389,28,25,ACTIVE,Normal
+ACC_N1590,51,20, aCtive ,Normal
+ACC_N2267,27,25,active,Normal
+ACC_N0704,24,11,Active,Normal
+ACC_N1000,32,29, aCtive ,Normal
+ACC_N0024,20,12, aCtive ,Normal
+ACC_N0037,24,1,ACTIVE,Normal
+ACC_N1844,64,2,active,Normal
+ACC_N2062,42,13,ACTIVE,Normal
+ACC_N3316,22,5,active,Normal
+ACC_N0884,55,3,ACTIVE,Normal
+ACC_N0919,47,23, aCtive ,Normal
+ACC_N2318,19,25, aCtive ,Normal
+ACC_N0391,37,3,Inactive,Normal
+ACC_A0345,52,469, aCtive ,Legitimate_Awakening
+ACC_N0952,38,28, aCtive ,Normal
+ACC_N1053,25,10, aCtive ,Normal
+ACC_N2092,47,14, aCtive ,Normal
+ACC_N2725,37,22,Active,Normal
+ACC_N0882,40,3,active,Normal
+ACC_A0343,27,312,Active,Legitimate_Awakening
+ACC_N1216,49,17,Active,Normal
+ACC_N1136,42,16,ACTIVE,Normal
+ACC_N1087,59,26,active,Normal
+ACC_N0764,36,22,ACTIVE,Normal
+ACC_N2263,21,0,Active,Normal
+ACC_N1345,59,25, aCtive ,Normal
+ACC_N2834,28,16,active,Normal
+ACC_N3324,30,13, aCtive ,Normal
+ACC_A0066,24,643,Active,Legitimate_Awakening
+ACC_N1099,37,12,Active,Normal
+ACC_N1013,60,26,Inactive,Normal
+ACC_N0876,55,4,active,Normal
+ACC_N2857,24,2,ACTIVE,Normal
+ACC_N2106,40,1,ACTIVE,Normal
+ACC_N1700,19,17, aCtive ,Normal
+ACC_N1425,34,10,active,Normal
+ACC_N2140,32,13, aCtive ,Normal
+ACC_N1646,23,29, aCtive ,Normal
+ACC_N0891,46,3,inactive,Normal
+ACC_N0301,29,26,ACTIVE,Normal
+ACC_N2651,29,27,active,Normal
+ACC_N2001,29,22,Active,Normal
+ACC_N0087,46,20, aCtive ,Normal
+ACC_N1170,150,8,Active,Normal
+ACC_N0221,61,9,active,Normal
+ACC_N1334,27,17, aCtive ,Normal
+ACC_N0020,53,27,Active,Normal
+ACC_N1582,20,19,Active,Normal
+ACC_A0102,54,509,ACTIVE,Legitimate_Awakening
+ACC_A0113,51,627,active,Legitimate_Awakening
+ACC_N1427,39,20,active,Normal
+ACC_N3414,59,2,active,Normal
+ACC_N1711,29,12, aCtive ,Normal
+ACC_N2457,48,4,ACTIVE,Normal
+ACC_N2282,53,14, aCtive ,Normal
+ACC_N0657,30,2,active,Normal
+ACC_N2372,39,5, aCtive ,Normal
+ACC_M006,28,947,Active,Dormant_Mule
+ACC_N1292,32,3, aCtive ,Normal
+ACC_N0545,51,23, aCtive ,Normal
+ACC_N1893,39,29,INACTIVE,Normal
+ACC_N2920,55,29,Active,Normal
+ACC_N1373,42,25,active,Normal
+ACC_N0870,40,11,Active,Normal
+ACC_A0209,54,452,Active,Legitimate_Awakening
+ACC_N2751,52,18,Active,Normal
+ACC_N0036,58,29,active,Normal
+ACC_N2548,21,8,Active,Normal
+ACC_A0156,20,316,ACTIVE,Legitimate_Awakening
+ACC_N3449,28,10,ACTIVE,Normal
+ACC_N0279,57,28,ACTIVE,Normal
+ACC_N3242,51,20,ACTIVE,Normal
+ACC_N1327,37,23,active,Normal
+ACC_N1092,19,25, aCtive ,Normal
+ACC_N2489,25,29, aCtive ,Normal
+ACC_N0050,24,5,ACTIVE,Normal
+ACC_N3217,64,14, aCtive ,Normal
+ACC_N2727,48,27,ACTIVE,Normal
+ACC_N2922,41,1,ACTIVE,Normal
+ACC_N2399,150,12, aCtive ,Normal
+ACC_N0641,21,18, aCtive ,Normal
+ACC_N1412,30,28,Active,Normal
+ACC_A0258,47,289,ACTIVE,Legitimate_Awakening
+ACC_A0084,56,497, aCtive ,Legitimate_Awakening
+ACC_M016,18,887, aCtive ,Dormant_Mule
+ACC_N2371,40,16, aCtive ,Normal
+ACC_N2917,44,20,Active,Normal
+ACC_N2311,54,27,ACTIVE,Normal
+ACC_N0026,52,14,ACTIVE,Normal
+ACC_N2215,50,22,active,Normal
+ACC_N0134,37,19,Active,Normal
+ACC_N1614,40,27,Active,Normal
+ACC_N2387,19,23,ACTIVE,Normal
+ACC_N0312,57,18,active,Normal
+ACC_N0721,28,19,active,Normal
+ACC_N2210,45,29,ACTIVE,Normal
+ACC_N0058,57,5,INACTIVE,Normal
+ACC_N0629,36,19,Active,Normal
+ACC_N3187,50,28,active,Normal
+ACC_N0298,61,25, aCtive ,Normal
+ACC_N2748,44,20,active,Normal
+ACC_N2740,28,17, aCtive ,Normal
+ACC_N0013,25,13, aCtive ,Normal
+ACC_N3271,24,14,Active,Normal
+ACC_N2631,60,23,active,Normal
+ACC_N3280,53,3,active,Normal
+ACC_N0399,47,22, aCtive ,Normal
+ACC_N0664,18,7,ACTIVE,Normal
+ACC_A0215,29,552,active,Legitimate_Awakening
+ACC_N0710,47,16,Active,Normal
+ACC_N1805,48,27,inactive,Normal
+ACC_N1737,46,8,ACTIVE,Normal
+ACC_N2526,46,0,active,Normal
+ACC_N2045,44,2,Active,Normal
+ACC_N0326,25,5,ACTIVE,Normal
+ACC_N3251,54,5,active,Normal
+ACC_N1127,42,22,Active,Normal
+ACC_N2364,59,22,ACTIVE,Normal
+ACC_N2789,51,25,active,Normal
+ACC_N1794,30,3,ACTIVE,Normal
+ACC_N1723,38,27, aCtive ,Normal
+ACC_N3138,62,9, aCtive ,Normal
+ACC_N2168,21,2,ACTIVE,Normal
+ACC_N0048,38,5, aCtive ,Normal
+ACC_N0967,59,2, aCtive ,Normal
+ACC_N2131,28,6,ACTIVE,Normal
+ACC_A0372,47,601, aCtive ,Legitimate_Awakening
+ACC_A0184,63,305,ACTIVE,Legitimate_Awakening
+ACC_N1971,37,7,ACTIVE,Normal
+ACC_N0844,19,6, aCtive ,Normal
+ACC_N1810,47,4,active,Normal
+ACC_N2435,40,14,ACTIVE,Normal
+ACC_N3438,64,22,Inactive,Normal
+ACC_N0579,150,22,active,Normal
+ACC_N1861,60,22, aCtive ,Normal
+ACC_N2212,27,24,inactive,Normal
+ACC_N1541,25,8,Active,Normal
+ACC_N1413,29,15,active,Normal
+ACC_N1596,29,10,Active,Normal
+ACC_N2515,25,4, aCtive ,Normal
+ACC_N2061,53,17,ACTIVE,Normal
+ACC_N1026,21,17,ACTIVE,Normal
+ACC_N0288,51,12, aCtive ,Normal
+ACC_N2832,47,25, aCtive ,Normal
+ACC_N1938,46,2, aCtive ,Normal
+ACC_N0520,26,25, aCtive ,Normal
+ACC_N2163,25,20, aCtive ,Normal
+ACC_N2394,23,22, aCtive ,Normal
+ACC_A0390,38,607, aCtive ,Legitimate_Awakening
+ACC_N2021,40,3,ACTIVE,Normal
+ACC_N1942,44,12,Active,Normal
+ACC_N3312,29,19,Active,Normal
+ACC_N2699,22,18,ACTIVE,Normal
+ACC_A0382,29,271,active,Legitimate_Awakening
+ACC_A0001,54,469,Active,Legitimate_Awakening
+ACC_N1331,33,20,active,Normal
+ACC_N2750,64,9,ACTIVE,Normal
+ACC_N2544,24,1,active,Normal
+ACC_N1593,30,8,ACTIVE,Normal
+ACC_N2711,55,13, aCtive ,Normal
+ACC_N0151,19,13, aCtive ,Normal
+ACC_N2901,30,20,Active,Normal
+ACC_N0149,45,24,Active,Normal
+ACC_N0755,27,7,active,Normal
+ACC_N0905,36,2,active,Normal
+ACC_N2384,20,26,Active,Normal
+ACC_N0813,61,1, aCtive ,Normal
+ACC_A0271,38,609,ACTIVE,Legitimate_Awakening
+ACC_N3116,36,10, aCtive ,Normal
+ACC_N0351,57,29,Inactive,Normal
+ACC_N1208,37,13,ACTIVE,Normal
+ACC_N2938,40,11,active,Normal
+ACC_A0359,61,218,Active,Legitimate_Awakening
+ACC_N1299,59,29, aCtive ,Normal
+ACC_N0955,41,2,INACTIVE,Normal
+ACC_A0232,50,197,active,Legitimate_Awakening
+ACC_N2568,35,13,Inactive,Normal
+ACC_N0893,29,9, aCtive ,Normal
+ACC_N2682,43,22,Active,Normal
+ACC_N1041,50,8,ACTIVE,Normal
+ACC_N0283,21,20,ACTIVE,Normal
+ACC_N1085,48,23,active,Normal
+ACC_N2339,21,3, aCtive ,Normal
+ACC_N0907,22,18,ACTIVE,Normal
+ACC_N1279,49,27,ACTIVE,Normal
+ACC_M019,20,555,ACTIVE,Dormant_Mule
+ACC_N1913,42,20,ACTIVE,Normal
+ACC_N0074,22,28,Active,Normal
+ACC_N0337,19,9,active,Normal
+ACC_A0176,57,365,active,Legitimate_Awakening
+ACC_N1218,38,11,ACTIVE,Normal
+ACC_N3074,46,12,active,Normal
+ACC_N1002,44,2,active,Normal
+ACC_N1163,39,16,INACTIVE,Normal
+ACC_N1341,55,15,active,Normal
+ACC_N3069,39,23,Active,Normal
+ACC_N0785,28,21,ACTIVE,Normal
+ACC_N2323,53,8,INACTIVE,Normal
+ACC_N2143,59,7,Active,Normal
+ACC_A0302,44,288,active,Legitimate_Awakening
+ACC_N2292,30,12,ACTIVE,Normal
+ACC_N1030,47,17,ACTIVE,Normal
+ACC_N0272,34,23,ACTIVE,Normal
+ACC_N0838,58,11,ACTIVE,Normal
+ACC_N1444,46,7,active,Normal
+ACC_N2223,31,28,Inactive,Normal
+ACC_N2179,59,29, aCtive ,Normal
+ACC_N1091,27,14, aCtive ,Normal
+ACC_N3153,33,23,ACTIVE,Normal
+ACC_N1910,32,27,active,Normal
+ACC_N1854,41,9, aCtive ,Normal
+ACC_N0701,46,1, aCtive ,Normal
+ACC_N2285,64,21, aCtive ,Normal
+ACC_A0003,26,454,Active,Legitimate_Awakening
+ACC_N2957,23,7,inactive,Normal
+ACC_N2407,18,12,Active,Normal
+ACC_N1431,46,1, aCtive ,Normal
+ACC_N1526,48,7,inactive,Normal
+ACC_N2683,56,24,active,Normal
+ACC_N1103,48,12,active,Normal
+ACC_N0561,18,12, aCtive ,Normal
+ACC_A0086,43,323, aCtive ,Legitimate_Awakening
+ACC_N1586,29,21,INACTIVE,Normal
+ACC_N1581,44,19,Active,Normal
+ACC_N1156,36,6,Active,Normal
+ACC_N2828,63,23, aCtive ,Normal
+ACC_N1902,56,4,active,Normal
+ACC_N0299,43,23,Active,Normal
+ACC_N0400,34,3,inactive,Normal
+ACC_N0004,22,4, aCtive ,Normal
+ACC_N0458,63,16,ACTIVE,Normal
+ACC_N1672,47,16, aCtive ,Normal
+ACC_A0272,62,541,ACTIVE,Legitimate_Awakening
+ACC_N2615,46,9, aCtive ,Normal
+ACC_N2224,24,4,active,Normal
+ACC_N1497,46,9,active,Normal
+ACC_N1831,62,8,active,Normal
+ACC_N1899,38,23,active,Normal
+ACC_N2025,51,14,ACTIVE,Normal
+ACC_A0016,62,452, aCtive ,Legitimate_Awakening
+ACC_N2169,60,1,active,Normal
+ACC_N0688,29,12,inactive,Normal
+ACC_N1573,29,26,Active,Normal
+ACC_N1900,57,4,Active,Normal
+ACC_A0030,62,423,Active,Legitimate_Awakening
+ACC_M035,33,870, aCtive ,Dormant_Mule
+ACC_N2470,54,14,Active,Normal
+ACC_N1078,26,17,Active,Normal
+ACC_N1036,26,8,ACTIVE,Normal
+ACC_N3270,53,0, aCtive ,Normal
+ACC_N2724,18,21, aCtive ,Normal
+ACC_N1384,28,15,Active,Normal
+ACC_N3197,27,27, aCtive ,Normal
+ACC_N3459,43,17,ACTIVE,Normal
+ACC_A0187,31,372,ACTIVE,Legitimate_Awakening
+ACC_N3416,52,14,active,Normal
+ACC_N3236,29,4,ACTIVE,Normal
+ACC_N3056,49,9,active,Normal
+ACC_N0820,56,20,Active,Normal
+ACC_N2563,32,5,active,Normal
+ACC_N1382,35,18,active,Normal
+ACC_N1911,31,8,Active,Normal
+ACC_N1610,42,8,active,Normal
+ACC_N2232,33,29,inactive,Normal
+ACC_N3329,38,26,ACTIVE,Normal
+ACC_N1781,51,6,Active,Normal
+ACC_N0997,24,27, aCtive ,Normal
+ACC_N3170,27,5,inactive,Normal
+ACC_N2280,51,27,active,Normal
+ACC_N2018,58,14,ACTIVE,Normal
+ACC_N2198,19,9, aCtive ,Normal
+ACC_M017,39,631,Active,Dormant_Mule
+ACC_N2707,28,12,Active,Normal
+ACC_N3225,50,27,Active,Normal
+ACC_N1263,26,26,ACTIVE,Normal
+ACC_N1012,60,23, aCtive ,Normal
+ACC_N3285,21,21,Inactive,Normal
+ACC_N2927,24,8,ACTIVE,Normal
+ACC_N2655,51,11,ACTIVE,Normal
+ACC_A0121,19,546, aCtive ,Legitimate_Awakening
+ACC_N2084,18,17,Active,Normal
+ACC_N1907,51,3,Active,Normal
+ACC_N2207,59,12,active,Normal
+ACC_N1591,59,7,Active,Normal
+ACC_N1579,26,22, aCtive ,Normal
+ACC_N2277,29,9,ACTIVE,Normal
+ACC_A0148,57,403, aCtive ,Legitimate_Awakening
+ACC_N0354,39,24,Active,Normal
+ACC_N2947,43,15,ACTIVE,Normal
+ACC_N1627,47,10, aCtive ,Normal
+ACC_N1932,23,12,Active,Normal
+ACC_N3165,52,20,Active,Normal
+ACC_N0860,31,10,Active,Normal
+ACC_N2429,39,27,active,Normal
+ACC_N3088,19,23,active,Normal
+ACC_N2721,37,25,active,Normal
+ACC_N1147,41,2,ACTIVE,Normal
+ACC_N3321,150,8, aCtive ,Normal
+ACC_N0680,39,26,ACTIVE,Normal
+ACC_N1148,53,28,ACTIVE,Normal
+ACC_N2803,56,22,Active,Normal
+ACC_N3262,29,11,Active,Normal
+ACC_N3247,48,14,inactive,Normal
+ACC_N1139,49,21,ACTIVE,Normal
+ACC_N1713,23,29,INACTIVE,Normal
+ACC_N3031,34,23,active,Normal
+ACC_N0374,33,22,ACTIVE,Normal
+ACC_N2108,29,14,ACTIVE,Normal
+ACC_N2542,56,16, aCtive ,Normal
+ACC_N3481,23,22, aCtive ,Normal
+ACC_N1642,18,15,ACTIVE,Normal
+ACC_A0280,57,238,Active,Legitimate_Awakening
+ACC_N0235,64,15,Active,Normal
+ACC_N3005,56,28,ACTIVE,Normal
+ACC_N1869,43,29,Active,Normal
+ACC_N0178,37,4, aCtive ,Normal
+ACC_N2838,25,17,active,Normal
+ACC_N1797,28,22, aCtive ,Normal
+ACC_A0110,64,257,active,Legitimate_Awakening
+ACC_N0900,57,17,ACTIVE,Normal
+ACC_N2572,58,22,ACTIVE,Normal
+ACC_N0626,32,14,INACTIVE,Normal
+ACC_N2493,54,6,inactive,Normal
+ACC_N2246,61,5,Active,Normal
+ACC_N1617,41,3,ACTIVE,Normal
+ACC_N0222,52,25,active,Normal
+ACC_A0183,54,181,Active,Legitimate_Awakening
+ACC_N1535,64,7,active,Normal
+ACC_N0324,22,22,ACTIVE,Normal
+ACC_N2441,21,18,ACTIVE,Normal
+ACC_N2812,31,28, aCtive ,Normal
+ACC_A0169,23,623,active,Legitimate_Awakening
+ACC_N2145,45,12,Active,Normal
+ACC_N1686,62,2,ACTIVE,Normal
+ACC_A0315,28,636, aCtive ,Legitimate_Awakening
+ACC_N1528,23,11, aCtive ,Normal
+ACC_N2058,58,7,Active,Normal
+ACC_N2589,60,8,ACTIVE,Normal
+ACC_N0829,27,8, aCtive ,Normal
+ACC_N2130,21,9,inactive,Normal
+ACC_N1203,150,17,Active,Normal
+ACC_A0352,40,668,Active,Legitimate_Awakening
+ACC_N1687,26,1,active,Normal
+ACC_N0871,43,29,active,Normal
+ACC_N1727,28,2,ACTIVE,Normal
+ACC_N1043,47,17, aCtive ,Normal
+ACC_N1482,26,29, aCtive ,Normal
+ACC_N0331,58,25,active,Normal
+ACC_N2851,63,23,ACTIVE,Normal
+ACC_N0171,22,3, aCtive ,Normal
+ACC_N1930,23,6,Active,Normal
+ACC_N2254,23,27,Inactive,Normal
+ACC_N2918,59,7,inactive,Normal
+ACC_N1351,22,28,Inactive,Normal
+ACC_N3077,33,19,Active,Normal
+ACC_N1489,42,28,active,Normal
+ACC_N0750,24,5,ACTIVE,Normal
+ACC_N3160,18,17,Active,Normal
+ACC_N1498,25,19,Active,Normal
+ACC_N2188,33,17, aCtive ,Normal
+ACC_N0472,42,18,inactive,Normal
+ACC_N1653,33,15,active,Normal
+ACC_N1184,61,27, aCtive ,Normal
+ACC_N1856,40,29, aCtive ,Normal
+ACC_A0193,41,423, aCtive ,Legitimate_Awakening
+ACC_N2732,43,10,Inactive,Normal
+ACC_N0439,35,1,ACTIVE,Normal
+ACC_A0380,38,269,active,Legitimate_Awakening
+ACC_N3485,31,25,Active,Normal
+ACC_A0105,58,620,active,Legitimate_Awakening
+ACC_N2414,40,21,Active,Normal
+ACC_N1416,21,17,ACTIVE,Normal
+ACC_N2975,49,10,ACTIVE,Normal
+ACC_N3437,52,15,active,Normal
+ACC_N3284,20,19, aCtive ,Normal
+ACC_A0243,50,317,Active,Legitimate_Awakening
+ACC_N3174,61,2,INACTIVE,Normal
+ACC_N1247,62,26, aCtive ,Normal
+ACC_N2988,38,23,ACTIVE,Normal
+ACC_N0805,27,5,Inactive,Normal
+ACC_N0446,64,13,ACTIVE,Normal
+ACC_N2261,58,29,Active,Normal
+ACC_N0308,31,23, aCtive ,Normal
+ACC_N2977,43,0,Active,Normal
+ACC_A0366,46,341, aCtive ,Legitimate_Awakening
+ACC_N2653,19,1,Active,Normal
+ACC_N1118,42,17,active,Normal
+ACC_N1342,47,7,ACTIVE,Normal
+ACC_N2303,46,18,Active,Normal
+ACC_N1360,54,23,Active,Normal
+ACC_N2030,33,24,ACTIVE,Normal
+ACC_N2663,59,21,Active,Normal
+ACC_N0878,22,14,ACTIVE,Normal
+ACC_N0341,47,6, aCtive ,Normal
+ACC_N3462,20,2,active,Normal
+ACC_N2189,18,23,active,Normal
+ACC_N3472,18,5,ACTIVE,Normal
+ACC_N3276,61,2,active,Normal
+ACC_N1940,64,26,ACTIVE,Normal
+ACC_N2444,44,19,active,Normal
+ACC_N1967,38,10,Active,Normal
+ACC_N1851,37,11,Active,Normal
+ACC_N2450,27,20,active,Normal
+ACC_N1377,55,27, aCtive ,Normal
+ACC_N0489,27,15,active,Normal
+ACC_N1801,61,7,Active,Normal
+ACC_N1812,44,19,active,Normal
+ACC_A0395,46,397,Active,Legitimate_Awakening
+ACC_N3388,26,18, aCtive ,Normal
+ACC_N2629,60,25, aCtive ,Normal
+ACC_N0133,28,28,active,Normal
+ACC_N2203,25,24,Active,Normal
+ACC_N3042,21,3, aCtive ,Normal
+ACC_M030,36,518,ACTIVE,Dormant_Mule
+ACC_N1791,53,24,active,Normal
+ACC_N1098,45,8,ACTIVE,Normal
+ACC_N2216,61,17,active,Normal
+ACC_N1235,41,14,Active,Normal
+ACC_N2432,30,25,Active,Normal
+ACC_N0656,44,5,ACTIVE,Normal
+ACC_N1254,50,4,Active,Normal
+ACC_N3185,53,26,Active,Normal
+ACC_N1800,44,26,Active,Normal
+ACC_N2800,25,20,ACTIVE,Normal
+ACC_N0965,45,23,Inactive,Normal
+ACC_N2430,150,5, aCtive ,Normal
+ACC_N3027,55,25,active,Normal
+ACC_N3441,42,12, aCtive ,Normal
+ACC_N0389,62,21,ACTIVE,Normal
+ACC_N2923,40,0,ACTIVE,Normal
+ACC_N0411,35,22,Active,Normal
+ACC_N0385,43,16, aCtive ,Normal
+ACC_A0255,19,509,ACTIVE,Legitimate_Awakening
+ACC_N0416,37,5,active,Normal
+ACC_N0524,45,18,ACTIVE,Normal
+ACC_N3443,61,20,INACTIVE,Normal
+ACC_N1979,150,27,active,Normal
+ACC_N0366,55,11,active,Normal
+ACC_A0238,20,182,Active,Legitimate_Awakening
+ACC_M057,40,693,active,Dormant_Mule
+ACC_N3342,50,3,Active,Normal
+ACC_A0052,43,549,Active,Legitimate_Awakening
+ACC_A0065,27,318,ACTIVE,Legitimate_Awakening
+ACC_N1722,36,4,ACTIVE,Normal
+ACC_A0020,45,529,Active,Legitimate_Awakening
+ACC_N0362,36,5, aCtive ,Normal
+ACC_N0429,62,6,Active,Normal
+ACC_N3282,48,25, aCtive ,Normal
+ACC_N0357,34,16,active,Normal
+ACC_N0728,23,29,active,Normal
+ACC_A0205,28,557,active,Legitimate_Awakening
+ACC_N1908,30,16,Inactive,Normal
+ACC_N0480,35,27, aCtive ,Normal
+ACC_N2346,33,3,Active,Normal
+ACC_N3139,37,6,active,Normal
+ACC_N1578,50,1,ACTIVE,Normal
+ACC_N2354,54,4,active,Normal
+ACC_N1958,49,15,active,Normal
+ACC_N3186,34,8,ACTIVE,Normal
+ACC_N1123,57,7, aCtive ,Normal
+ACC_N1501,23,18,active,Normal
+ACC_N1701,36,0, aCtive ,Normal
+ACC_N1984,62,28,ACTIVE,Normal
+ACC_N0594,30,17,ACTIVE,Normal
+ACC_N2849,23,27,ACTIVE,Normal
+ACC_N2393,49,27,Active,Normal
+ACC_A0048,26,246, aCtive ,Legitimate_Awakening
+ACC_N1598,48,14,Active,Normal
+ACC_N2565,34,12,ACTIVE,Normal
+ACC_N0276,46,10,active,Normal
+ACC_N1469,57,2,Active,Normal
+ACC_N3110,25,29,INACTIVE,Normal
+ACC_N1101,34,7,Active,Normal
+ACC_N1505,43,1, aCtive ,Normal
+ACC_N1748,46,14,active,Normal
+ACC_N3426,47,17,Active,Normal
+ACC_A0361,29,693,ACTIVE,Legitimate_Awakening
+ACC_N1939,38,28,inactive,Normal
+ACC_N0803,33,18,ACTIVE,Normal
+ACC_N0618,50,25, aCtive ,Normal
+ACC_N0355,21,6, aCtive ,Normal
+ACC_N0380,22,1,Inactive,Normal
+ACC_M021,25,912,ACTIVE,Dormant_Mule
+ACC_N0095,23,8,active,Normal
+ACC_N2994,21,6,Active,Normal
+ACC_N1959,64,16,Active,Normal
+ACC_N1352,30,0,ACTIVE,Normal
+ACC_N1421,62,8, aCtive ,Normal
+ACC_N1625,37,11,active,Normal
+ACC_A0085,30,521, aCtive ,Legitimate_Awakening
+ACC_N2775,30,2,Active,Normal
+ACC_A0031,18,417,Active,Legitimate_Awakening
+ACC_N2652,50,28,ACTIVE,Normal
+ACC_N0496,22,10, aCtive ,Normal
+ACC_N2588,43,18,Active,Normal
+ACC_N3405,25,9,Active,Normal
+ACC_N2258,28,29, aCtive ,Normal
+ACC_N2019,22,23,ACTIVE,Normal
+ACC_N3482,53,16,ACTIVE,Normal
+ACC_N1550,31,8,active,Normal
+ACC_N0754,21,10,active,Normal
+ACC_N1260,55,4,active,Normal
+ACC_N0444,59,26, aCtive ,Normal
+ACC_N1608,44,11,active,Normal
+ACC_N0801,43,14,active,Normal
+ACC_N1669,62,2, aCtive ,Normal
+ACC_N3067,22,10,active,Normal
+ACC_N1818,36,19,ACTIVE,Normal
+ACC_N3292,29,28,Active,Normal
+ACC_N2043,60,1,ACTIVE,Normal
+ACC_N0295,52,14,ACTIVE,Normal
+ACC_N0405,64,1,Active,Normal
+ACC_N1088,58,5,ACTIVE,Normal
+ACC_N0859,36,15,Active,Normal
+ACC_N1872,26,2,ACTIVE,Normal
+ACC_N2484,44,23, aCtive ,Normal
+ACC_N0131,56,6, aCtive ,Normal
+ACC_N3274,28,8,active,Normal
+ACC_A0398,52,358, aCtive ,Legitimate_Awakening
+ACC_N1795,25,6,Active,Normal
+ACC_N2218,37,4,active,Normal
+ACC_N0147,37,4,ACTIVE,Normal
+ACC_N1417,24,0,INACTIVE,Normal
+ACC_N0275,19,11,active,Normal
+ACC_N0112,49,27, aCtive ,Normal
+ACC_N1742,35,29,active,Normal
+ACC_N1481,61,8,Active,Normal
+ACC_N2033,56,6,Active,Normal
+ACC_N2011,30,19,ACTIVE,Normal
+ACC_N3169,42,13,active,Normal
+ACC_N3340,43,11,Active,Normal
+ACC_N2099,57,22,ACTIVE,Normal
+ACC_A0173,32,274,active,Legitimate_Awakening
+ACC_N3322,57,22,ACTIVE,Normal
+ACC_N3241,150,28,Active,Normal
+ACC_N1565,61,14,ACTIVE,Normal
+ACC_N2196,54,4,active,Normal
+ACC_N0672,150,14,INACTIVE,Normal
+ACC_N3191,58,26,Active,Normal
+ACC_N0684,48,12,active,Normal
+ACC_M055,22,995,active,Dormant_Mule
+ACC_N1709,42,11,ACTIVE,Normal
+ACC_N2759,43,4,Active,Normal
+ACC_N1450,63,6, aCtive ,Normal
+ACC_N0846,61,4,INACTIVE,Normal
+ACC_N1706,34,10,ACTIVE,Normal
+ACC_N1756,53,26,Active,Normal
+ACC_N2939,18,13, aCtive ,Normal
+ACC_M015,45,813,Active,Dormant_Mule
+ACC_N0593,25,12,ACTIVE,Normal
+ACC_N0108,150,25,Active,Normal
+ACC_N0321,57,12,Active,Normal
+ACC_N3497,59,1,Active,Normal
+ACC_N1228,64,19,ACTIVE,Normal
+ACC_N0398,47,13,Inactive,Normal
+ACC_A0391,20,411,ACTIVE,Legitimate_Awakening
+ACC_A0203,39,484, aCtive ,Legitimate_Awakening
+ACC_N1544,61,18,active,Normal
+ACC_M023,32,917,Active,Dormant_Mule
+ACC_N1741,33,26,inactive,Normal
+ACC_N0125,59,11,active,Normal
+ACC_N0638,21,1,Active,Normal
+ACC_N3396,60,29,Active,Normal
+ACC_N2175,48,16,Active,Normal
+ACC_A0015,37,291,ACTIVE,Legitimate_Awakening
+ACC_N1454,37,19,inactive,Normal
+ACC_N0347,36,12, aCtive ,Normal
+ACC_N2704,60,11,ACTIVE,Normal
+ACC_M037,43,911,Active,Dormant_Mule
+ACC_N2508,58,9,INACTIVE,Normal
+ACC_N0467,41,8,Active,Normal
+ACC_N2583,48,21,Active,Normal
+ACC_N0396,62,10, aCtive ,Normal
+ACC_N0635,57,22,Active,Normal
+ACC_N0461,33,9,ACTIVE,Normal
+ACC_N3494,32,17, aCtive ,Normal
+ACC_A0329,22,486, aCtive ,Legitimate_Awakening
+ACC_N1774,50,25, aCtive ,Normal
+ACC_N0065,20,22,Active,Normal
+ACC_N2338,49,24, aCtive ,Normal
+ACC_N0927,53,23, aCtive ,Normal
+ACC_N1017,20,4,ACTIVE,Normal
+ACC_N0705,23,14,active,Normal
+ACC_N1655,40,27,ACTIVE,Normal
+ACC_N2530,57,15,ACTIVE,Normal
+ACC_N3432,54,21,active,Normal
+ACC_N2139,31,17,active,Normal
+ACC_N1445,32,4, aCtive ,Normal
+ACC_N0018,60,19,ACTIVE,Normal
+ACC_N2191,49,1,Active,Normal
+ACC_N3294,22,20,ACTIVE,Normal
+ACC_A0070,57,247,active,Legitimate_Awakening
+ACC_N0264,49,3,INACTIVE,Normal
+ACC_A0334,34,231, aCtive ,Legitimate_Awakening
+ACC_N0068,59,0, aCtive ,Normal
+ACC_N1187,44,14,Active,Normal
+ACC_N2844,27,15,Active,Normal
+ACC_N3456,48,26,active,Normal
+ACC_N2101,41,26, aCtive ,Normal
+ACC_N0239,45,10,ACTIVE,Normal
+ACC_N1962,19,20, aCtive ,Normal
+ACC_N3408,36,9,ACTIVE,Normal
+ACC_A0374,57,588,ACTIVE,Legitimate_Awakening
+ACC_N3486,26,9,Active,Normal
+ACC_N0601,54,28, aCtive ,Normal
+ACC_N2716,58,10,active,Normal
+ACC_N0493,38,29, aCtive ,Normal
+ACC_N1256,33,19, aCtive ,Normal
+ACC_N1396,49,27,active,Normal
+ACC_N1547,55,21,active,Normal
+ACC_N0940,62,11, aCtive ,Normal
+ACC_N1724,42,27,active,Normal
+ACC_N1390,33,26,ACTIVE,Normal
+ACC_N0590,64,27,Active,Normal
+ACC_N3137,28,19,INACTIVE,Normal
+ACC_N2088,48,29,ACTIVE,Normal
+ACC_N2980,21,7,Active,Normal
+ACC_N1786,39,22,active,Normal
+ACC_N3315,43,23,Active,Normal
+ACC_N3395,64,4, aCtive ,Normal
+ACC_N1004,43,3,active,Normal
+ACC_N3135,61,17,ACTIVE,Normal
+ACC_N2907,36,25,ACTIVE,Normal
+ACC_N0929,21,24,Active,Normal
+ACC_A0261,55,341,ACTIVE,Legitimate_Awakening
+ACC_N1452,51,1,inactive,Normal
+ACC_N2249,38,11,ACTIVE,Normal
+ACC_N1210,18,27,active,Normal
+ACC_N1790,33,16,Active,Normal
+ACC_N2491,50,10,ACTIVE,Normal
+ACC_N0285,26,2, aCtive ,Normal
+ACC_N2617,51,22,active,Normal
+ACC_N2358,42,19,ACTIVE,Normal
+ACC_N1736,21,24,ACTIVE,Normal
+ACC_N0335,57,11,Inactive,Normal
+ACC_N0227,40,19,active,Normal
+ACC_A0123,18,486,active,Legitimate_Awakening
+ACC_N1536,42,15,Active,Normal
+ACC_N2897,53,5,active,Normal
+ACC_A0387,40,345,ACTIVE,Legitimate_Awakening
+ACC_N3085,22,28,ACTIVE,Normal
+ACC_N2734,58,6,INACTIVE,Normal
+ACC_N3129,62,0,inactive,Normal
+ACC_N0621,56,27,active,Normal
+ACC_N3240,18,14,ACTIVE,Normal
+ACC_N0314,53,9, aCtive ,Normal
+ACC_N2754,48,18,Inactive,Normal
+ACC_A0308,45,277,Active,Legitimate_Awakening
+ACC_A0152,56,195,Active,Legitimate_Awakening
+ACC_N1735,32,8,ACTIVE,Normal
+ACC_N1206,43,29,ACTIVE,Normal
+ACC_N2635,36,23,Active,Normal
+ACC_N1462,57,4, aCtive ,Normal
+ACC_N0359,48,11,Active,Normal
+ACC_N3380,53,0,active,Normal
+ACC_N0311,43,25,ACTIVE,Normal
+ACC_N1007,50,18,ACTIVE,Normal
+ACC_N2855,54,5,active,Normal
+ACC_N2916,55,22,ACTIVE,Normal
+ACC_N3201,59,9,INACTIVE,Normal
+ACC_N0001,58,25,Active,Normal
+ACC_N0162,62,7,Active,Normal
+ACC_N3171,24,28,ACTIVE,Normal
+ACC_N2902,30,17,inactive,Normal
+ACC_N2818,30,2,inactive,Normal
+ACC_N0145,43,1,ACTIVE,Normal
+ACC_N0979,55,12,Active,Normal
+ACC_A0064,24,206,active,Legitimate_Awakening
+ACC_N1867,24,7,Active,Normal
+ACC_N1332,46,20,active,Normal
+ACC_N1364,37,28, aCtive ,Normal
+ACC_N1891,32,18,Active,Normal
+ACC_N3209,47,4,active,Normal
+ACC_N2580,20,7,active,Normal
+ACC_N3172,21,23,active,Normal
+ACC_N0616,51,15,ACTIVE,Normal
+ACC_N0322,34,9,ACTIVE,Normal
+ACC_N0569,62,21, aCtive ,Normal
+ACC_A0059,61,380, aCtive ,Legitimate_Awakening
+ACC_N1473,32,9,active,Normal
+ACC_N0617,34,6,ACTIVE,Normal
+ACC_N1886,43,20,active,Normal
+ACC_N1725,46,16,ACTIVE,Normal
+ACC_N1641,55,0,ACTIVE,Normal
+ACC_N1825,27,19, aCtive ,Normal
+ACC_N2291,41,7,active,Normal
+ACC_N2992,61,18,active,Normal
+ACC_N1141,25,28,ACTIVE,Normal
+ACC_N1436,32,4,ACTIVE,Normal
+ACC_N0598,63,14,Active,Normal
+ACC_N1733,53,6, aCtive ,Normal
+ACC_N0669,22,9,Active,Normal
+ACC_N1502,54,22,ACTIVE,Normal
+ACC_N2377,21,20,active,Normal
+ACC_N2814,32,10,ACTIVE,Normal
+ACC_N1809,56,23,Active,Normal
+ACC_N2739,53,0, aCtive ,Normal
+ACC_N1887,37,17,ACTIVE,Normal
+ACC_A0294,62,511,active,Legitimate_Awakening
+ACC_A0250,53,238,Active,Legitimate_Awakening
+ACC_N1165,20,20,ACTIVE,Normal
+ACC_N1132,24,25,active,Normal
+ACC_N1514,31,15,active,Normal
+ACC_N0973,48,15,ACTIVE,Normal
+ACC_N0061,33,27,Active,Normal
+ACC_N1480,51,25,active,Normal
+ACC_N1871,47,8, aCtive ,Normal
+ACC_N0402,41,9,Active,Normal
+ACC_N3348,19,28,active,Normal
+ACC_N3126,59,17,Inactive,Normal
+ACC_N2268,51,3,ACTIVE,Normal
+ACC_N1044,42,20,Active,Normal
+ACC_N0756,23,27,active,Normal
+ACC_A0364,35,247,active,Legitimate_Awakening
+ACC_N3254,50,3,Active,Normal
+ACC_N0016,52,12,Active,Normal
+ACC_N3406,50,27,Active,Normal
+ACC_N0174,55,0, aCtive ,Normal
+ACC_N0950,34,21, aCtive ,Normal
+ACC_N2202,18,15, aCtive ,Normal
+ACC_N2288,19,24,ACTIVE,Normal
+ACC_A0049,43,595, aCtive ,Legitimate_Awakening
+ACC_N2350,26,13, aCtive ,Normal
+ACC_N0760,57,16, aCtive ,Normal
+ACC_A0333,61,518,active,Legitimate_Awakening
+ACC_N0654,57,28, aCtive ,Normal
+ACC_N2213,25,10,Active,Normal
+ACC_N2423,32,1,INACTIVE,Normal
+ACC_N1595,52,28,ACTIVE,Normal
+ACC_N1667,53,20,ACTIVE,Normal
+ACC_N1386,49,17, aCtive ,Normal
+ACC_N2638,50,25,Active,Normal
+ACC_N0651,62,26,Active,Normal
+ACC_N3133,37,7,active,Normal
+ACC_N1039,22,10,Active,Normal
+ACC_M041,43,998,active,Dormant_Mule
+ACC_N1130,63,11,active,Normal
+ACC_N1115,27,19,Active,Normal
+ACC_N2726,59,20,Active,Normal
+ACC_N0487,26,3,INACTIVE,Normal
+ACC_N2287,150,19,ACTIVE,Normal
+ACC_N1806,24,22, aCtive ,Normal
+ACC_A0324,56,684,ACTIVE,Legitimate_Awakening
+ACC_N1200,54,1,Active,Normal
+ACC_N2253,39,8,Active,Normal
+ACC_N2813,32,0,active,Normal
+ACC_N1367,35,10, aCtive ,Normal
+ACC_N1779,21,1,Active,Normal
+ACC_N0546,29,7, aCtive ,Normal
+ACC_A0104,58,585,ACTIVE,Legitimate_Awakening
+ACC_N1143,64,11, aCtive ,Normal
+ACC_N2201,45,14,ACTIVE,Normal
+ACC_N0117,48,27,Active,Normal
+ACC_N2523,20,6,Active,Normal
+ACC_N2247,37,16,active,Normal
+ACC_N1715,27,15,ACTIVE,Normal
+ACC_N1224,150,14,ACTIVE,Normal
+ACC_N0923,29,6, aCtive ,Normal
+ACC_N1354,41,22,active,Normal
+ACC_A0316,40,561,active,Legitimate_Awakening
+ACC_N0695,40,7,active,Normal
+ACC_N1121,29,8,ACTIVE,Normal
+ACC_A0276,48,692,Active,Legitimate_Awakening
+ACC_N0282,52,21,Active,Normal
+ACC_N1380,32,6, aCtive ,Normal
+ACC_N0627,23,19, aCtive ,Normal
+ACC_N1397,53,5,ACTIVE,Normal
+ACC_N0730,20,27,Active,Normal
+ACC_N1160,33,11,active,Normal
+ACC_N3006,48,20,Active,Normal
+ACC_N0780,23,16, aCtive ,Normal
+ACC_A0143,35,190,Active,Legitimate_Awakening
+ACC_N0025,40,24,active,Normal
+ACC_N1138,41,17,inactive,Normal
+ACC_A0139,33,208, aCtive ,Legitimate_Awakening
+ACC_N0372,59,27,ACTIVE,Normal
+ACC_N2664,59,23,Active,Normal
+ACC_N1297,34,16,Active,Normal
+ACC_N2240,42,3,Inactive,Normal
+ACC_N1301,40,17,ACTIVE,Normal
+ACC_N0913,28,8,active,Normal
+ACC_N2409,20,12,Active,Normal
+ACC_N2847,60,9, aCtive ,Normal
+ACC_N1749,63,15,Active,Normal
+ACC_N3125,43,23,active,Normal
+ACC_N1836,21,16, aCtive ,Normal
+ACC_N0098,61,28, aCtive ,Normal
+ACC_N0109,38,18, aCtive ,Normal
+ACC_N1906,57,5,active,Normal
+ACC_N1155,31,2,Active,Normal
+ACC_N0204,36,24, aCtive ,Normal
+ACC_N1358,20,22,ACTIVE,Normal
+ACC_N0796,29,18,active,Normal
+ACC_N0843,51,0, aCtive ,Normal
+ACC_N2204,44,11,active,Normal
+ACC_N2575,50,3,ACTIVE,Normal
+ACC_N0521,34,19, aCtive ,Normal
+ACC_N1400,31,9,Active,Normal
+ACC_N2893,52,14,active,Normal
+ACC_N2731,32,18, aCtive ,Normal
+ACC_N1950,41,20, aCtive ,Normal
+ACC_A0161,22,508,active,Legitimate_Awakening
+ACC_N2677,57,13,ACTIVE,Normal
+ACC_N0143,42,6,active,Normal
+ACC_N0035,24,19,Active,Normal
+ACC_N0736,38,16,ACTIVE,Normal
+ACC_A0348,47,439,Active,Legitimate_Awakening
+ACC_N1661,51,8,Active,Normal
+ACC_N2483,47,23,active,Normal
+ACC_N0188,46,21, aCtive ,Normal
+ACC_N0046,39,2,ACTIVE,Normal
+ACC_N2662,58,18,Active,Normal
+ACC_N1388,39,17, aCtive ,Normal
+ACC_N0649,61,17, aCtive ,Normal
+ACC_N3450,28,21, aCtive ,Normal
+ACC_N1056,52,19,ACTIVE,Normal
+ACC_N1652,20,14, aCtive ,Normal
+ACC_N2807,18,21,active,Normal
+ACC_N2055,43,1,Active,Normal
+ACC_N1492,46,20, aCtive ,Normal
+ACC_N0556,49,24,Active,Normal
+ACC_N2791,64,25,ACTIVE,Normal
+ACC_N3106,19,14,Active,Normal
+ACC_N0409,32,5, aCtive ,Normal
+ACC_A0196,59,342,ACTIVE,Legitimate_Awakening
+ACC_N3180,62,17,ACTIVE,Normal
+ACC_N3239,35,10,ACTIVE,Normal
+ACC_N2406,62,15,ACTIVE,Normal
+ACC_N3059,29,0,ACTIVE,Normal
+ACC_N0723,49,2,Active,Normal
+ACC_N3297,48,9, aCtive ,Normal
+ACC_N3198,49,18,Active,Normal
+ACC_N0982,22,25, aCtive ,Normal
+ACC_N2792,47,16,ACTIVE,Normal
+ACC_N1752,53,23,ACTIVE,Normal
+ACC_N1333,42,7,active,Normal
+ACC_N3039,44,26,INACTIVE,Normal
+ACC_N0885,49,27,Active,Normal
+ACC_N2301,53,23,Active,Normal
+ACC_N2642,49,14,INACTIVE,Normal
+ACC_N1369,57,28, aCtive ,Normal
+ACC_N2647,42,19,active,Normal
+ACC_N1090,18,9,active,Normal
+ACC_N2159,53,24, aCtive ,Normal
+ACC_N2931,30,29,Active,Normal
+ACC_N1198,23,0, aCtive ,Normal
+ACC_N0271,22,17,Active,Normal
+ACC_N2401,50,8,INACTIVE,Normal
+ACC_N0113,30,13,ACTIVE,Normal
+ACC_N1644,28,3,ACTIVE,Normal
+ACC_N0869,21,11,Active,Normal
+ACC_N0132,45,5,Active,Normal
+ACC_N0377,60,25,Active,Normal
+ACC_N0953,28,4,active,Normal
+ACC_A0115,28,368,active,Legitimate_Awakening
+ACC_N0966,32,24, aCtive ,Normal
+ACC_A0068,43,449,active,Legitimate_Awakening
+ACC_N3475,56,23, aCtive ,Normal
+ACC_N0466,26,26, aCtive ,Normal
+ACC_N1702,33,27, aCtive ,Normal
+ACC_N0403,43,6,Active,Normal
+ACC_M048,50,980,ACTIVE,Dormant_Mule
+ACC_N0693,18,11,active,Normal
+ACC_N1293,42,28, aCtive ,Normal
+ACC_N0137,59,27,ACTIVE,Normal
+ACC_N2623,27,10, aCtive ,Normal
+ACC_N3273,47,16,Active,Normal
+ACC_N2593,45,19,INACTIVE,Normal
+ACC_N2722,29,4,active,Normal
+ACC_N0415,150,6,ACTIVE,Normal
+ACC_N2709,19,29,Active,Normal
+ACC_N2227,22,4, aCtive ,Normal
+ACC_N0055,43,17,active,Normal
+ACC_N2831,20,27,active,Normal
+ACC_N3058,46,7,Active,Normal
+ACC_N0319,60,8,active,Normal
+ACC_N0718,36,6,active,Normal
+ACC_N1100,40,11,active,Normal
+ACC_N1054,31,25,active,Normal
+ACC_N0313,28,10, aCtive ,Normal
+ACC_N2124,20,14,Active,Normal
+ACC_A0377,58,324,ACTIVE,Legitimate_Awakening
+ACC_N0961,61,6,ACTIVE,Normal
+ACC_N1766,63,19,active,Normal
+ACC_N2388,49,5, aCtive ,Normal
+ACC_N1512,38,16,active,Normal
+ACC_N1540,50,11,active,Normal
+ACC_N2051,43,3, aCtive ,Normal
+ACC_N0823,49,18,Active,Normal
+ACC_N3299,22,10,ACTIVE,Normal
+ACC_N2840,36,5, aCtive ,Normal
+ACC_N2013,62,5,ACTIVE,Normal
+ACC_N2081,46,17, aCtive ,Normal
+ACC_N2688,60,19, aCtive ,Normal
+ACC_N2796,22,28,active,Normal
+ACC_N2684,20,18,Active,Normal
+ACC_N0770,42,26,ACTIVE,Normal
+ACC_N1905,28,7,Active,Normal
+ACC_A0219,63,616,active,Legitimate_Awakening
+ACC_N1609,39,2, aCtive ,Normal
+ACC_N0824,44,6,ACTIVE,Normal
+ACC_N2886,64,10,Active,Normal
+ACC_N2935,56,18,ACTIVE,Normal
+ACC_N0851,43,24,ACTIVE,Normal
+ACC_N1230,62,20,ACTIVE,Normal
+ACC_N3436,150,22,Active,Normal
+ACC_N0613,43,21,ACTIVE,Normal
+ACC_N1990,23,15,Active,Normal
+ACC_N2442,38,9, aCtive ,Normal
+ACC_N0689,44,14,Active,Normal
+ACC_N0455,48,8,active,Normal
+ACC_A0088,36,381,ACTIVE,Legitimate_Awakening
+ACC_N0958,57,19,active,Normal
+ACC_N1631,44,1,active,Normal
+ACC_A0249,25,573, aCtive ,Legitimate_Awakening
+ACC_N1361,45,4, aCtive ,Normal
+ACC_N2327,19,21,inactive,Normal
+ACC_A0079,34,611,Active,Legitimate_Awakening
+ACC_N0974,50,24,Active,Normal
+ACC_N2014,35,25,ACTIVE,Normal
+ACC_N0991,52,17,active,Normal
+ACC_A0233,60,253, aCtive ,Legitimate_Awakening
+ACC_N3310,27,3, aCtive ,Normal
+ACC_N0836,30,22,ACTIVE,Normal
+ACC_N1463,36,11, aCtive ,Normal
+ACC_N0287,22,24,active,Normal
+ACC_M046,61,698,active,Dormant_Mule
+ACC_A0120,50,185,ACTIVE,Legitimate_Awakening
+ACC_N0894,35,5,active,Normal
+ACC_N1305,29,17,Active,Normal
+ACC_N2696,21,12,active,Normal
+ACC_N2098,55,20,Active,Normal
+ACC_N3200,38,8, aCtive ,Normal
+ACC_N2461,24,28,Active,Normal
+ACC_N1291,26,28,ACTIVE,Normal
+ACC_N2335,41,14,ACTIVE,Normal
+ACC_N1941,41,6,ACTIVE,Normal
+ACC_N2673,40,24,ACTIVE,Normal
+ACC_N0243,52,21,ACTIVE,Normal
+ACC_N2882,51,27,active,Normal
+ACC_N1746,61,4, aCtive ,Normal
+ACC_N0636,42,18,Active,Normal
+ACC_A0357,45,483,Active,Legitimate_Awakening
+ACC_N3430,45,22, aCtive ,Normal
+ACC_N3265,52,7,ACTIVE,Normal
+ACC_N1154,37,3,ACTIVE,Normal
+ACC_N1051,56,19,Active,Normal
+ACC_N2925,35,1,ACTIVE,Normal
+ACC_N1362,59,20,active,Normal
+ACC_N1479,24,27,active,Normal
+ACC_N0995,21,10,inactive,Normal
+ACC_A0099,48,289,active,Legitimate_Awakening
+ACC_N1799,47,17, aCtive ,Normal
+ACC_N2411,38,17,INACTIVE,Normal
+ACC_N1860,54,7,active,Normal
+ACC_N1021,50,16,INACTIVE,Normal
+ACC_N0739,59,17,active,Normal
+ACC_N3182,34,27,ACTIVE,Normal
+ACC_N0847,27,0, aCtive ,Normal
+ACC_N2342,49,20,active,Normal
+ACC_N0776,24,5, aCtive ,Normal
+ACC_N1168,57,15,Active,Normal
+ACC_N0426,62,26,Active,Normal
+ACC_A0046,29,493,active,Legitimate_Awakening
+ACC_N0173,32,19,active,Normal
+ACC_A0067,63,496,active,Legitimate_Awakening
+ACC_N0252,28,16,Active,Normal
+ACC_A0300,21,360, aCtive ,Legitimate_Awakening
+ACC_N0888,64,13,Active,Normal
+ACC_N0376,26,15,active,Normal
+ACC_N3120,20,3,active,Normal
+ACC_A0047,39,550,active,Legitimate_Awakening
+ACC_N1107,25,24,active,Normal
+ACC_N0039,62,20,active,Normal
+ACC_N3311,22,17,active,Normal
+ACC_N1843,46,20,ACTIVE,Normal
+ACC_N3018,34,2,ACTIVE,Normal
+ACC_N0086,44,15,ACTIVE,Normal
+ACC_N1466,27,21,Active,Normal
+ACC_N1762,34,6, aCtive ,Normal
+ACC_N2351,29,5,inactive,Normal
+ACC_N0726,25,16,active,Normal
+ACC_N0156,34,10,ACTIVE,Normal
+ACC_N1008,24,11,Active,Normal
+ACC_N0183,64,18, aCtive ,Normal
+ACC_A0011,25,447,active,Legitimate_Awakening
+ACC_A0009,48,519,active,Legitimate_Awakening
+ACC_N2380,45,1, aCtive ,Normal
+ACC_N0585,38,18, aCtive ,Normal
+ACC_N1037,50,12,INACTIVE,Normal
+ACC_A0331,53,196,Active,Legitimate_Awakening
+ACC_N1693,23,19,ACTIVE,Normal
+ACC_N1295,51,16,active,Normal
+ACC_A0251,29,325,ACTIVE,Legitimate_Awakening
+ACC_N0019,23,12,inactive,Normal
+ACC_N0017,42,15,inactive,Normal
+ACC_N3259,28,0, aCtive ,Normal
+ACC_M022,56,419,active,Dormant_Mule
+ACC_N2272,61,19,active,Normal
+ACC_N1612,26,27,ACTIVE,Normal
+ACC_N0353,22,4,ACTIVE,Normal
+ACC_A0131,27,324,active,Legitimate_Awakening
+ACC_N1654,53,3,Active,Normal
+ACC_N1564,55,18,INACTIVE,Normal
+ACC_N1298,23,10,ACTIVE,Normal
+ACC_N2693,35,8,active,Normal
+ACC_N3478,41,13,ACTIVE,Normal
+ACC_N1010,56,24,active,Normal
+ACC_N1339,57,12,Active,Normal
+ACC_N3379,18,26,Inactive,Normal
+ACC_N3092,52,2,active,Normal
+ACC_N1250,61,24,ACTIVE,Normal
+ACC_N0863,27,6,active,Normal
+ACC_N2566,59,1, aCtive ,Normal
+ACC_N2114,38,28,active,Normal
+ACC_N3072,53,7,active,Normal
+ACC_N2295,51,20,active,Normal
+ACC_N0014,61,8,active,Normal
+ACC_N0286,40,12, aCtive ,Normal
+ACC_A0325,47,589,Active,Legitimate_Awakening
+ACC_N0365,49,19, aCtive ,Normal
+ACC_N3045,26,6,Inactive,Normal
+ACC_N3123,33,12,Active,Normal
+ACC_N0766,29,25, aCtive ,Normal
+ACC_N2385,33,0,ACTIVE,Normal
+ACC_N0555,39,24,Active,Normal
+ACC_N1189,47,27, aCtive ,Normal
+ACC_N1275,58,23,active,Normal
+ACC_N0169,60,23, aCtive ,Normal
+ACC_N2835,49,1,Active,Normal
+ACC_N2113,63,12,ACTIVE,Normal
+ACC_N1879,55,11,ACTIVE,Normal
+ACC_N2427,52,15,ACTIVE,Normal
+ACC_N1439,39,9,active,Normal
+ACC_A0142,62,196, aCtive ,Legitimate_Awakening
+ACC_N0332,42,0, aCtive ,Normal
+ACC_N2870,26,18,ACTIVE,Normal
+ACC_N2123,37,10,active,Normal
+ACC_M002,18,929,ACTIVE,Dormant_Mule
+ACC_N0256,61,10,Active,Normal
+ACC_N0482,25,16, aCtive ,Normal
+ACC_N1355,24,28,active,Normal
+ACC_N0114,54,3,ACTIVE,Normal
+ACC_N3407,24,15,active,Normal
+ACC_N2714,52,13,Active,Normal
+ACC_N2996,26,10,Active,Normal
+ACC_N1238,26,24, aCtive ,Normal
+ACC_N0373,41,7,INACTIVE,Normal
+ACC_N1065,24,13,ACTIVE,Normal
+ACC_N1840,64,23,ACTIVE,Normal
+ACC_N1555,43,26,ACTIVE,Normal
+ACC_N2229,64,13, aCtive ,Normal
+ACC_N2447,49,7,Active,Normal
+ACC_N0543,44,29,ACTIVE,Normal
+ACC_N0293,18,4, aCtive ,Normal
+ACC_N1135,34,0, aCtive ,Normal
+ACC_N1726,30,18, aCtive ,Normal
+ACC_N1034,43,8, aCtive ,Normal
+ACC_A0109,52,587, aCtive ,Legitimate_Awakening
+ACC_N1645,47,26, aCtive ,Normal
+ACC_N3293,34,12,Active,Normal
+ACC_N2970,24,8,Inactive,Normal
+ACC_N0438,54,4,ACTIVE,Normal
+ACC_N2513,150,3,active,Normal
+ACC_N2468,47,8,Active,Normal
+ACC_N2185,36,9,active,Normal
+ACC_N0529,20,2,ACTIVE,Normal
+ACC_N0033,35,23,Inactive,Normal
+ACC_N2620,34,25,Active,Normal
+ACC_N1904,150,19,ACTIVE,Normal
+ACC_N3112,24,18,ACTIVE,Normal
+ACC_N2190,46,29,active,Normal
+ACC_N2231,46,5,active,Normal
+ACC_N2603,21,27,ACTIVE,Normal
+ACC_A0150,150,237,Active,Legitimate_Awakening
+ACC_N1943,57,16, aCtive ,Normal
+ACC_N1640,32,19,active,Normal
+ACC_N1271,36,23,ACTIVE,Normal
+ACC_A0248,58,556,Active,Legitimate_Awakening
+ACC_A0140,30,333,Active,Legitimate_Awakening
+ACC_N1057,25,25,INACTIVE,Normal
+ACC_M051,58,498,active,Dormant_Mule
+ACC_N0527,33,2,INACTIVE,Normal
+ACC_N0586,44,3,active,Normal
+ACC_N0932,18,23, aCtive ,Normal
+ACC_N1934,35,16,ACTIVE,Normal
+ACC_N1705,52,8,active,Normal
+ACC_N2465,56,5, aCtive ,Normal
+ACC_N1898,43,16,active,Normal
+ACC_N0644,49,26,ACTIVE,Normal
+ACC_A0032,52,460,ACTIVE,Legitimate_Awakening
+ACC_N2965,38,1, aCtive ,Normal
+ACC_N1947,50,17,Active,Normal
+ACC_N0937,54,23,ACTIVE,Normal
+ACC_N0560,48,8,ACTIVE,Normal
+ACC_N3417,48,25,ACTIVE,Normal
+ACC_N3048,22,20,ACTIVE,Normal
+ACC_N0753,41,0,Active,Normal
+ACC_N3017,40,23,ACTIVE,Normal
+ACC_N1110,42,11,Active,Normal
+ACC_N0378,43,14,active,Normal
+ACC_N0874,59,20,Active,Normal
+ACC_N3398,38,22,INACTIVE,Normal
+ACC_N1131,29,15,active,Normal
+ACC_N3291,27,5,Active,Normal
+ACC_N1296,46,28,inactive,Normal
+ACC_N1031,26,27,Active,Normal
+ACC_N2115,30,13,Active,Normal
+ACC_N2176,51,21,inactive,Normal
+ACC_N1995,46,18,Active,Normal
+ACC_N0187,48,8,Active,Normal
+ACC_N3433,60,11,Active,Normal
+ACC_A0091,55,423, aCtive ,Legitimate_Awakening
+ACC_N0253,35,13, aCtive ,Normal
+ACC_N0977,32,25, aCtive ,Normal
+ACC_N3094,38,25,Active,Normal
+ACC_N1405,58,12,active,Normal
+ACC_N0096,61,0, aCtive ,Normal
+ACC_N3422,44,7,ACTIVE,Normal
+ACC_N2066,60,23,ACTIVE,Normal
+ACC_N2000,37,22,Active,Normal
+ACC_N3392,62,26,active,Normal
+ACC_N2330,36,0, aCtive ,Normal
+ACC_N3195,61,25,Active,Normal
+ACC_N3496,62,5,active,Normal
+ACC_A0075,22,316,ACTIVE,Legitimate_Awakening
+ACC_N2050,30,13, aCtive ,Normal
+ACC_N0481,63,28,Active,Normal
+ACC_N1782,150,18,inactive,Normal
+ACC_N3214,38,0,Active,Normal
+ACC_N2637,43,13,active,Normal
+ACC_N0422,60,19,Active,Normal
+ACC_N0393,41,26,Active,Normal
+ACC_N1551,19,1, aCtive ,Normal
+ACC_N1832,33,11,ACTIVE,Normal
+ACC_N0348,27,22,ACTIVE,Normal
+ACC_N1474,42,3,active,Normal
+ACC_N1111,40,4,ACTIVE,Normal
+ACC_M024,21,749,active,Dormant_Mule
+ACC_N1507,18,6, aCtive ,Normal
+ACC_N0610,32,22,active,Normal
+ACC_N1006,35,20,ACTIVE,Normal
+ACC_N3346,25,24,Active,Normal
+ACC_A0136,23,519, aCtive ,Legitimate_Awakening
+ACC_N2320,46,4,ACTIVE,Normal
+ACC_M026,56,824, aCtive ,Dormant_Mule
+ACC_N2571,50,2,active,Normal
+ACC_N2396,63,7,ACTIVE,Normal
+ACC_N2353,28,3,Active,Normal
+ACC_N2309,22,9,Active,Normal
+ACC_N1486,34,19,Active,Normal
+ACC_N1201,29,20,Active,Normal
+ACC_N1755,44,22, aCtive ,Normal
+ACC_N0054,22,26,ACTIVE,Normal
+ACC_N0825,45,4,Active,Normal
+ACC_N1027,46,13,Active,Normal
+ACC_M059,44,434,Active,Dormant_Mule
+ACC_N0925,24,25,active,Normal
+ACC_N1912,34,5,ACTIVE,Normal
+ACC_N2554,36,21, aCtive ,Normal
+ACC_N1365,52,2,active,Normal
+ACC_N2937,23,22,active,Normal
+ACC_N0386,62,26, aCtive ,Normal
+ACC_N1058,54,0,Active,Normal
+ACC_N1980,61,27,Active,Normal
+ACC_N1636,54,28,ACTIVE,Normal
+ACC_N3127,61,18,Active,Normal
+ACC_N1227,32,23,active,Normal
+ACC_A0021,25,691,active,Legitimate_Awakening
+ACC_N3319,24,18,active,Normal
+ACC_N0381,43,2, aCtive ,Normal
+ACC_N3084,24,21,Active,Normal
+ACC_N0775,50,11,Inactive,Normal
+ACC_N2713,34,23,Active,Normal
+ACC_N1205,30,4,Active,Normal
+ACC_N0818,150,19,ACTIVE,Normal
+ACC_N0388,22,3,ACTIVE,Normal
+ACC_N3063,33,23,active,Normal
+ACC_N3196,40,19,active,Normal
+ACC_N2881,25,23, aCtive ,Normal
+ACC_A0174,54,569,active,Legitimate_Awakening
+ACC_N3327,42,19,Active,Normal
+ACC_N0471,34,28,active,Normal
+ACC_A0299,54,455,active,Legitimate_Awakening
+ACC_N0944,20,0,ACTIVE,Normal
+ACC_N2943,33,15,Active,Normal
+ACC_N1914,20,11, aCtive ,Normal
+ACC_N2286,59,1, aCtive ,Normal
+ACC_N2034,34,23, aCtive ,Normal
+ACC_N1294,31,9,active,Normal
+ACC_N2672,63,20, aCtive ,Normal
+ACC_N1176,62,12, aCtive ,Normal
+ACC_N1064,54,9, aCtive ,Normal
+ACC_N3155,51,23,ACTIVE,Normal
+ACC_N3181,26,8,Active,Normal
+ACC_N1964,32,2,ACTIVE,Normal
+ACC_N2103,56,29,Active,Normal
+ACC_N2086,47,15,ACTIVE,Normal
+ACC_N3320,47,13,Active,Normal
+ACC_N2464,45,21, aCtive ,Normal
+ACC_N2502,62,23, aCtive ,Normal
+ACC_N2590,54,18, aCtive ,Normal
+ACC_A0222,18,305,ACTIVE,Legitimate_Awakening
+ACC_N1783,46,23, aCtive ,Normal
+ACC_N2753,27,3,active,Normal
+ACC_N0231,34,15,inactive,Normal
+ACC_N2355,63,22,Active,Normal
+ACC_N2798,19,7,ACTIVE,Normal
+ACC_N1922,51,29, aCtive ,Normal
+ACC_N1038,53,5, aCtive ,Normal
+ACC_N0716,22,23,Active,Normal
+ACC_N1683,63,26, aCtive ,Normal
+ACC_N2777,60,17, aCtive ,Normal
+ACC_N0602,55,5,Active,Normal
+ACC_N1379,36,26,Active,Normal
+ACC_N2497,24,5,active,Normal
+ACC_N2057,46,18,active,Normal
+ACC_N1821,61,16,Active,Normal
+ACC_N1207,50,10,ACTIVE,Normal
+ACC_N0779,62,27,active,Normal
+ACC_N2041,46,15,Active,Normal
+ACC_N0666,31,23, aCtive ,Normal
+ACC_N1330,35,6,ACTIVE,Normal
+ACC_N1356,28,24, aCtive ,Normal
+ACC_N0491,23,19,INACTIVE,Normal
+ACC_N3009,27,0, aCtive ,Normal
+ACC_N2836,55,26,ACTIVE,Normal
+ACC_N2921,56,9,Active,Normal
+ACC_N0213,25,0,Active,Normal
+ACC_N0509,51,26,ACTIVE,Normal
+ACC_N0645,21,16,inactive,Normal
+ACC_N3168,59,21, aCtive ,Normal
+ACC_N0483,30,19, aCtive ,Normal
+ACC_N0976,31,20,ACTIVE,Normal
+ACC_N1920,18,13,Active,Normal
+ACC_M044,22,431, aCtive ,Dormant_Mule
+ACC_N1411,39,5,active,Normal
+ACC_A0295,38,680,ACTIVE,Legitimate_Awakening
+ACC_N1925,150,2,active,Normal
+ACC_N3232,43,27,active,Normal
+ACC_A0240,150,522,Active,Legitimate_Awakening
+ACC_N2439,57,1,ACTIVE,Normal
+ACC_N3210,63,6, aCtive ,Normal
+ACC_N1803,33,2, aCtive ,Normal
+ACC_N3381,20,23,ACTIVE,Normal
+ACC_N2275,60,29,Active,Normal
+ACC_A0277,22,436, aCtive ,Legitimate_Awakening
+ACC_N1977,44,13, aCtive ,Normal
+ACC_N1393,26,3, aCtive ,Normal
+ACC_N0168,48,25,Active,Normal
+ACC_N1557,19,15,INACTIVE,Normal
+ACC_N0470,19,13,INACTIVE,Normal
+ACC_N1251,27,27,active,Normal
+ACC_N1966,31,19,Active,Normal
+ACC_N0031,36,1, aCtive ,Normal
+ACC_N0099,63,23,Active,Normal
+ACC_N1732,38,25,Active,Normal
+ACC_A0057,150,312, aCtive ,Legitimate_Awakening
+ACC_N2473,42,10, aCtive ,Normal
+ACC_N1150,42,9,Active,Normal
+ACC_A0034,22,235,Active,Legitimate_Awakening
+ACC_N3010,60,17,Active,Normal
+ACC_N1096,19,16,active,Normal
+ACC_A0244,37,383,ACTIVE,Legitimate_Awakening
+ACC_N2658,21,8,inactive,Normal
+ACC_N3365,27,6, aCtive ,Normal
+ACC_N2094,64,29,active,Normal
+ACC_N0477,63,24,active,Normal
+ACC_A0241,32,623,Active,Legitimate_Awakening
+ACC_N2517,50,3,ACTIVE,Normal
+ACC_N2577,45,12, aCtive ,Normal
+ACC_N0845,36,14,active,Normal
+ACC_N0558,40,7, aCtive ,Normal
+ACC_N0788,18,21,active,Normal
+ACC_N2315,41,27, aCtive ,Normal
+ACC_A0311,21,381,Active,Legitimate_Awakening
+ACC_N2008,59,13,Active,Normal
+ACC_N2948,18,26,inactive,Normal
+ACC_N2681,43,23,ACTIVE,Normal
+ACC_N1589,34,22,Active,Normal
+ACC_N2766,25,4,active,Normal
+ACC_N1823,44,29,active,Normal
+ACC_N0370,19,19,active,Normal
+ACC_A0082,150,685,active,Legitimate_Awakening
+ACC_N2976,58,7,Active,Normal
+ACC_N1302,63,27,Active,Normal
+ACC_N1363,44,25,ACTIVE,Normal
+ACC_N0956,40,7, aCtive ,Normal
+ACC_N1506,33,5,ACTIVE,Normal
+ACC_N2634,62,19, aCtive ,Normal
+ACC_N0485,43,8,Active,Normal
+ACC_N0447,42,23,active,Normal
+ACC_N2410,54,1,ACTIVE,Normal
+ACC_N2386,37,4,ACTIVE,Normal
+ACC_N1274,47,26,Active,Normal
+ACC_N3278,37,10, aCtive ,Normal
+ACC_N2703,37,5,ACTIVE,Normal
+ACC_A0074,40,568, aCtive ,Legitimate_Awakening
+ACC_N2325,42,28,ACTIVE,Normal
+ACC_N0763,27,1,active,Normal
+ACC_N0712,25,29,Active,Normal
+ACC_N2509,52,27, aCtive ,Normal
+ACC_N2585,51,26,Active,Normal
+ACC_N0625,50,23,Active,Normal
+ACC_N2541,54,12, aCtive ,Normal
